@@ -18,14 +18,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout main branch
       uses: actions/checkout@v4
       with:
-        ref: 'source' # Checkout from 'source' branch
+        ref: 'main' # Checkout from 'main' branch
         token: ${{ secrets.ACCESS_TOKEN }}
 
     - name: Merge source into main
-      run: git merge main --no-edit
+      run: git merge source --no-edit
 
     - name: Install Python and dependencies
       uses: actions/setup-python@v2
@@ -43,10 +43,10 @@ jobs:
       run: |
         sed -i '/site\//d' .gitignore
 
-    - name: Commit changes
+    - name: Commit and push changes
       run: |
         git config --global user.name 'Automated'
         git config --global user.email 'your.email@example.com'
         git add .
-        git commit -m "Modify file via GitHub Actions"
+        git commit -m "Merge source into main and build MkDocs"
         git push origin main
