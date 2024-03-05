@@ -43,6 +43,6 @@ jobs:
 
     - name: Push changes
       env:
-        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        PAT_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
         git push https://github.com/${{ github.repository }} HEAD:main
