@@ -1,1 +1,15 @@
-site_name: My Docs 2
+site_name: DiscOps User Guide
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.footer
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
+copyright: Copyright &copy; 2024 - Ernst & Young LLC
+plugins:
+  - offline
+markdown_extensions:
+  - admonition
