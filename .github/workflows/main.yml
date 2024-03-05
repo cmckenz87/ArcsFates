@@ -24,6 +24,9 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Change directory
+      run: cd userGuide
+
     - name: Install MkDocs
       run: pip install mkdocs-material
 
