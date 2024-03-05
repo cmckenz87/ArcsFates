@@ -4,6 +4,12 @@ on:
   push:
     paths:
       - 'userGuide/docs/**'  # Trigger on push to files under userGuide/docs directory
+  workflow_dispatch:
+    inputs:
+      trigger:
+        description: 'trigger manually'
+        required: false
+        default: 'manual'
 
 jobs:
   build:
@@ -19,7 +25,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install MkDocs
-      run: pip install mkdocs
+      run: pip install mkdocs-material
 
     - name: Build MkDocs
       run: mkdocs build
