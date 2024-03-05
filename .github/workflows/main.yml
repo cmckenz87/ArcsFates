@@ -2,6 +2,8 @@ name: MkDocs Build
 
 on:
   push:
+    branches:
+      - source
     paths:
       - 'userGuide/**'  # Trigger on push to files under userGuide/docs directory
   workflow_dispatch:
@@ -19,6 +21,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        ref: 'source' # Checkout from 'source' branch
         token: ${{ secrets.ACCESS_TOKEN }}
 
     - name: Install Python and dependencies
@@ -39,5 +42,4 @@ jobs:
         git config --global user.email 'your.email@example.com'
         git add .
         git commit -m "Modify file via GitHub Actions"
-        git push
-      
+        git push origin main
