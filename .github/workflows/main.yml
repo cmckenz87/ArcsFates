@@ -18,6 +18,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.ACCESS_TOKEN }}
 
     - name: Install Python and dependencies
       uses: actions/setup-python@v2
@@ -37,9 +39,5 @@ jobs:
         git config --global user.email 'your.email@example.com'
         git add .
         git commit -m "Modify file via GitHub Actions"
+        git push
       
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
-        branch: main
