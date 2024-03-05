@@ -1,0 +1,25 @@
+name: MkDocs Build
+
+on:
+  push:
+    paths:
+      - 'userGuide/docs/**'  # Trigger on push to files under userGuide/docs directory
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Install Python and dependencies
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install MkDocs
+      run: pip install mkdocs
+
+    - name: Build MkDocs
+      run: mkdocs build
