@@ -11,5 +11,12 @@ extra:
 copyright: Copyright &copy; 2024 - Ernst & Young LLC
 plugins:
   - offline
+  - mkdocs-nav-weight:
+      section_renamed: false
+      index_weight: -10
+      warning: true
+      reverse: false
+      headless_included: false
+
 markdown_extensions:
   - admonition

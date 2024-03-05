@@ -1,11 +1,7 @@
 ---
-hide:
-  - footer
-  - navigation
-  - toc
+weight: 0
 ---
-
-# Introduction
+# Overview
 
 !!! warning "Under construction"
 

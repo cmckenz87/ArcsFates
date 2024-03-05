@@ -1,11 +1,7 @@
 ---
-hide:
-  - footer
-  - navigation
-  - toc
+weight: 10
 ---
-
-# Introduction
+# Select equipment
 
 !!! warning "Under construction"
 

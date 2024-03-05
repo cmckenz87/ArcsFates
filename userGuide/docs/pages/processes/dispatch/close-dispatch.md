@@ -1,11 +1,7 @@
 ---
-hide:
-  - footer
-  - navigation
-  - toc
+weight: 50
 ---
-
-# Introduction
+# Close dispatch
 
 !!! warning "Under construction"
 

@@ -1,11 +1,7 @@
 ---
-hide:
-  - footer
-  - navigation
-  - toc
+weight: 30
 ---
-
-# Introduction
+# Identify operators
 
 !!! warning "Under construction"
 
