@@ -35,6 +35,10 @@ jobs:
 
     - name: Build MkDocs
       run: mkdocs build -f userGuide/mkdocs.yml -d ../site
+      
+    - name: Modify .gitignore
+      run: |
+        sed -i '/site\//d' .gitignore
 
     - name: Commit changes
       run: |
