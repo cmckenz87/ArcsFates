@@ -18,10 +18,7 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
-    - name: Change directory
-      run: cd userGuide
-      
+
     - name: Install Python and dependencies
       uses: actions/setup-python@v2
       with:
@@ -32,4 +29,4 @@ jobs:
         pip install mkdocs mkdocs-material
 
     - name: Build MkDocs
-      run: mkdocs build
+      run: mkdocs build -f userGuide/mkdocs.yml -d ../site
