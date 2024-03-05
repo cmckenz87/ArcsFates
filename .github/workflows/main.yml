@@ -24,6 +24,7 @@ jobs:
       - name: Install MkDocs and Material theme
         run: |
           pip install mkdocs mkdocs-material
+          pip install mkdocs-nav-weight
 
       - name: Build MkDocs
         run: mkdocs build -f userGuide/mkdocs.yml -d ../site
