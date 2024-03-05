@@ -1,6 +1,6 @@
 # Welcome to MkaDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentaaation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
