@@ -3,7 +3,7 @@ name: MkDocs Build
 on:
   push:
     paths:
-      - 'userGuide/docs/**'  # Trigger on push to files under userGuide/docs directory
+      - 'userGuide/**'  # Trigger on push to files under userGuide/docs directory
   workflow_dispatch:
     inputs:
       trigger:
