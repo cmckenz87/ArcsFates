@@ -30,19 +30,16 @@ jobs:
 
     - name: Build MkDocs
       run: mkdocs build -f userGuide/mkdocs.yml -d ../site
-      
-    - name: Configure Git
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
 
-    - name: Commit and push changes
+    - name: Commit changes
       run: |
+        git config --global user.name 'Automated'
+        git config --global user.email 'your.email@example.com'
         git add .
-        git commit -m "Build MkDocs documentation"
-
+        git commit -m "Modify file via GitHub Actions"
+      
     - name: Push changes
-      env:
-        PAT_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-      run: |
-        git push https://github.com/${{ github.repository }} HEAD:main
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
