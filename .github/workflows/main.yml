@@ -27,7 +27,7 @@ jobs:
     - name: Merge source into main
       run: | 
         git fetch origin
-        git merge origin/source --no-edit
+        git merge origin/source --no-edit --allow-unrelated-histories
 
     - name: Install Python and dependencies
       uses: actions/setup-python@v2
