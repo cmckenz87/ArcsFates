@@ -1,54 +1,36 @@
-name: MkDocs Build
-
+name: Build and Deploy
 on:
   push:
     branches:
       - source
-    paths:
-      - 'userGuide/**'  # Trigger on push to files under userGuide/docs directory
   workflow_dispatch:
-    inputs:
-      trigger:
-        description: 'trigger manually'
-        required: false
-        default: 'manual'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout main branch
-      uses: actions/checkout@v4
-      with:
-        ref: 'main' # Checkout from 'main' branch
-        token: ${{ secrets.ACCESS_TOKEN }}
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          ref: 'main' # Checkout from 'main' branch
+          token: ${{ secrets.ACCESS_TOKEN }}
 
-    - name: Merge source into main
-      run: | 
-        git fetch origin
-        git merge origin/source --no-edit --allow-unrelated-histories
 
-    - name: Install Python and dependencies
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Install Python and dependencies
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Install MkDocs and Material theme
-      run: |
-        pip install mkdocs mkdocs-material
+      - name: Install MkDocs and Material theme
+        run: |
+          pip install mkdocs mkdocs-material
 
-    - name: Build MkDocs
-      run: mkdocs build -f userGuide/mkdocs.yml -d ../site
-      
-    - name: Modify .gitignore
-      run: |
-        sed -i '/site\//d' .gitignore
+      - name: Build MkDocs
+        run: mkdocs build -f userGuide/mkdocs.yml -d ../site
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'Automated'
-        git config --global user.email 'your.email@example.com'
-        git add .
-        git commit -m "Merge source into main and build MkDocs"
-        git push origin main
+      - name: Deploy to build branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
