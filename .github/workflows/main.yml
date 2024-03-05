@@ -40,4 +40,9 @@ jobs:
       run: |
         git add .
         git commit -m "Build MkDocs documentation"
-        git push
+
+    - name: Push changes
+      env:
+        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+      run: |
+        git push https://github.com/${{ github.repository }} HEAD:main
