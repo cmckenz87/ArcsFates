@@ -19,16 +19,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
+    - name: Change directory
+      run: cd userGuide
+      
     - name: Install Python and dependencies
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
-    - name: Change directory
-      run: cd userGuide
-
-    - name: Install MkDocs
-      run: pip install mkdocs-material
+    - name: Install MkDocs and Material theme
+      run: |
+        pip install mkdocs mkdocs-material
 
     - name: Build MkDocs
       run: mkdocs build
