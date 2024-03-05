@@ -25,7 +25,9 @@ jobs:
         token: ${{ secrets.ACCESS_TOKEN }}
 
     - name: Merge source into main
-      run: git merge refs/heads/source --no-edit
+      run: | 
+        git fetch origin
+        git merge source --no-edit
 
     - name: Install Python and dependencies
       uses: actions/setup-python@v2
