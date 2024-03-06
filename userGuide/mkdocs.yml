@@ -8,7 +8,7 @@ extra_css:
   - stylesheets/extra.css
 extra:
   generator: false
-copyright: Copyright &copy; 2024 - Ernst & Young LLC
+copyright: Copyright &copy; 2024 - Ernst & Young
 plugins:
   - offline
   - mkdocs-nav-weight:
