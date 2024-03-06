@@ -5,7 +5,7 @@ weight: 20
 
 ## UI
 
-![Image title](/assets/dispatch-enter-details.png)
+![Image title](dispatch-enter-details.png)
 
 ## Overview
 

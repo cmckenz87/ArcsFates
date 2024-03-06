@@ -5,7 +5,7 @@ weight: 10
 
 ## UI
 
-![Image title](/assets/dispatch-select-equipment.png)
+![Image title](dispatch-select-equipment.png)
 
 ## Overview
 
