@@ -9,6 +9,8 @@ weight: 10
 
 ## Overview
 
+This is new text.
+
 You must select a piece of equipment to be dispatched. You may search for a piece of equipment by entering its serial number, description, equipment number, or UIC. Results matching the search will be displayed. Click on the desired piece of equipment and the details will display.
 
 !!! warning
