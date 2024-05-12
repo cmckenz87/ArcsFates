@@ -1,4 +1,4 @@
-site_name: DiscOps User Guide
+site_name: Arcs Fates
 theme:
   name: material
   features:
@@ -8,7 +8,6 @@ extra_css:
   - stylesheets/extra.css
 extra:
   generator: false
-copyright: Copyright &copy; 2024 - Ernst & Young
 plugins:
   - offline
   - mkdocs-nav-weight:
@@ -22,3 +21,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
+  - attr_list
