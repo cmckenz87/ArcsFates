@@ -5,7 +5,7 @@ title: 1. Steward
 #Steward
 ## Overview
 <figure markdown="span">
-![Steward](1/fate1.jpg)
+![Steward](1/Fate1.jpg)
 </figure>
 
 ## Act I
