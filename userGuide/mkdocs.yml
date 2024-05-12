@@ -2,7 +2,6 @@ site_name: Arcs Fates
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.footer
 extra_css:
   - stylesheets/extra.css

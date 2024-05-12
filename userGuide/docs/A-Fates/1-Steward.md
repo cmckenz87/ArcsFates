@@ -20,13 +20,7 @@ title: 1. Steward
 
 ### Objective
 
-|2 players|3 players|4 players|
-|--|--|--|
-|20|17|14|
-
-**Consolidate Your Imperial Power**
-
-Each time you win an ambition while you're the First Regent, **advance 1** for each Power you gain from it. 
+![Objective](1/back_3_4.jpg) 
 
 #### If completed
 1. Add these cards to the Court deck:
@@ -56,17 +50,7 @@ Each time you win an ambition while you're the First Regent, **advance 1** for e
 
 ### Objective
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
-
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
+![Objective](1/back_2_0.jpg) 
 
 #### If completed
 1. Add these cards to the Court deck:
@@ -96,7 +80,4 @@ At the end of each chapter, **advance 1** for each resource in the First Regent'
 
 ### Objective (Grand Ambition)
 
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+![Objective](1/back_0_4.jpg) 
