@@ -19,8 +19,9 @@ title: 1. Steward
 2. Gain the First Regent tile.
 
 ### Objective
-
+<figure markdown="span">
 ![Objective](1/back_3_4.jpg) 
+</figure>
 
 #### If completed
 1. Add these cards to the Court deck:
@@ -49,8 +50,9 @@ title: 1. Steward
     ![Imperial Quorum](1/piece_1_6.jpg)
 
 ### Objective
-
+<figure markdown="span">
 ![Objective](1/back_2_0.jpg) 
+</figure>
 
 #### If completed
 1. Add these cards to the Court deck:
@@ -79,5 +81,6 @@ title: 1. Steward
 4. The First Regent chooses which Govern with Authority card to place on top of the stack.
 
 ### Objective (Grand Ambition)
-
+<figure markdown="span">
 ![Objective](1/back_0_4.jpg) 
+</figure>
