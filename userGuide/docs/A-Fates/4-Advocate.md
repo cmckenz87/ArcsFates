@@ -1,107 +1,70 @@
 ---
 weight: 4
+title: 4. Advocate
 ---
-
-# 4. Advocate
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Advocate
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Advocate](4/Fate4.jpg){ width="300" }
 </figure>
 
 ## Act I
 
-### Setup
+[![Setup](4/piece_3_4.jpg){ width="33%"}](4/piece_3_4.jpg){ data-lightbox="1" }[![Objective](4/back_3_4.jpg){ width="33%" }](4/back_3_4.jpg){ data-lightbox="1" }[![Resolution](4/piece_3_1.jpg){ width="33%" }](4/piece_3_1.jpg){ data-lightbox="1" }
 
-1. Gain the following cards:
+??? info "Setup details"
+     1. Gain these cards *(Do not resolved the When Secured effect)*:
+    
+         [![Guild Investigators](4/piece_3_3.jpg){ width="150" }](4/piece_3_3.jpg){ data-lightbox="1" } [![Guild Overseers](4/piece_3_2.jpg){ width="150" }](4/piece_3_2.jpg){ data-lightbox="1" }
+
+??? success "If successful"
+    1. Add these cards (one of which came from this Act's Setup) to the court deck :
+      
+        [![Guild Overseers](4/piece_3_2.jpg){ width="150" }](4/piece_3_2.jpg){ data-lightbox="1" } [![Material Liasons](4/piece_3_0.jpg){ width="150" }](4/piece_3_0.jpg){ data-lightbox="1" } [![Fuel Liasons](4/piece_2_6.jpg){ width="150" }](4/piece_2_6.jpg){ data-lightbox="1" } [![Weapons Liasons](4/piece_2_5.jpg){ width="150" }](4/piece_2_5.jpg){ data-lightbox="1" } [![Relic Liasons](4/piece_2_4.jpg){ width="150" }](4/piece_2_4.jpg){ data-lightbox="1" } [![Psionic Liasons](4/piece_2_3.jpg){ width="150" }](4/piece_2_3.jpg){ data-lightbox="1" } [![Diplomatic Fiasco](4/piece_2_2.jpg){ width="150" }](4/piece_2_2.jpg){ data-lightbox="1" }
+
+??? failure "If failed"
+    1. Add these cards (one of which came from this Act's Setup) to the court deck :
+      
+        [![Guild Overseers](4/piece_3_2.jpg){ width="150" }](4/piece_3_2.jpg){ data-lightbox="1" } [![Guild Struggle](4/piece_2_1.jpg){ width="150" }](4/piece_2_1.jpg){ data-lightbox="1" }
+
+    2. For each Guild card suit that you have more than each other Rvial, add the corresponding card to the Court deck:
    
-    ![Imperial Authority](1/piece_3_3.jpg) ![Dealmakers](1/piece_3_2.jpg)
-
-2. Gain the First Regent tile.
-
-### Objective
-
-|2 players|3 players|4 players|
-|--|--|--|
-|20|17|14|
-
-**Consolidate Your Imperial Power**
-
-Each time you win an ambition while you're the First Regent, **advance 1** for each Power you gain from it. 
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Council Intrigue](1/piece_3_0.jpg) ![Tax Collectors](1/piece_2_6.jpg) ![Hunter Squads](1/piece_2_5.jpg)
-
-2. Add this card to the rules booklet:
-
-    ![Imperial Protectors](1/piece_2_4.jpg)
-
-#### If failed
-1. Add these cards to the Court deck:
-   
-    ![Empire Falls](1/piece_2_3.jpg) ![Lesser Regent](1/piece_2_2.jpg) ![Lesser Regent](1/piece_2_1.jpg)
-
-2. Add this card (gained during [Setup](#setup)) to the Court deck:
-   
-    ![Dealmakers](1/piece_3_2.jpg)
+        [![Material Liasons](4/piece_3_0.jpg){ width="150" }](4/piece_3_0.jpg){ data-lightbox="1" } [![Fuel Liasons](4/piece_2_6.jpg){ width="150" }](4/piece_2_6.jpg){ data-lightbox="1" } [![Weapons Liasons](4/piece_2_5.jpg){ width="150" }](4/piece_2_5.jpg){ data-lightbox="1" } [![Relic Liasons](4/piece_2_4.jpg){ width="150" }](4/piece_2_4.jpg){ data-lightbox="1" } [![Psionic Liasons](4/piece_2_3.jpg){ width="150" }](4/piece_2_3.jpg){ data-lightbox="1" }       
 
 ## Act II
 
-### Setup
+[![Setup](4/piece_2_0.jpg){ width="33%" }](4/piece_2_0.jpg){ data-lightbox="1" }[![Objective](4/back_2_0.jpg){ width="33%" }](4/back_2_0.jpg){ data-lightbox="1" }[![Resolution](4/piece_1_4.jpg){ width="33%px" }](4/piece_0_6.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+     1. Add these cards to the rules booklet:
+    
+        [![Advocate's Demand](4/piece_1_6.jpg){ width="150" }](4/piece_1_6.jpg){ data-lightbox="1" } [![Guild Negotiations](4/piece_1_5.jpg){ width="150" }](4/piece_1_5.jpg){ data-lightbox="1" }
 
-### Objective
+??? success "If successful"
+    1. Add these cards to the Court deck:
+      
+        [![Guild Fair](4/piece_1_3.jpg){ width="150" }](4/piece_1_3.jpg){ data-lightbox="1" } [![Material Guildmasters](4/piece_1_2.jpg){ width="150" }](4/piece_1_2.jpg){ data-lightbox="1" } [![Fuel Guildmasters](4/piece_1_1.jpg){ width="150" }](4/piece_1_1.jpg){ data-lightbox="1" } [![Weapons Guildmasters](4/piece_1_0.jpg){ width="150" }](4/piece_1_0.jpg){ data-lightbox="1" } [![Relic Guildmasters](4/piece_0_6.jpg){ width="150" }](4/piece_0_6.jpg){ data-lightbox="1" } [![Psionic Guildmasters](4/piece_0_5.jpg){ width="150" }](4/piece_0_5.jpg){ data-lightbox="1" }
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+    2. If Mining Interest or Shipping Interest are in the Court discard pile, add them to the Court deck.
 
-**Expand the Empire**
+??? failure "If failed"
+    1. Add this card to the Court deck:
 
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
+        [![Material Cartel](4/piece_0_4.jpg){ width="150" }](4/piece_0_4.jpg){ data-lightbox="1" }
 
-**Ensure the Emperor's Tribute**
+    2. Scrap this from the rules booklet.
 
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+        [![Advocate's Demand](4/piece_1_6.jpg){ width="150" }](4/piece_1_6.jpg){ data-lightbox="1" }
 
 ## Act III
 
-### Setup
+[![Setup](4/piece_0_3.jpg){ width="33%" }](4/piece_0_3.jpg){ data-lightbox="1" }[![Objective](4/back_0_3.jpg){ width="33%" }](4/back_0_3.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Gain this card:
+    
+        [![Guild Loyalty](4/piece_0_2.jpg){ width="150" }](4/piece_0_2.jpg){ data-lightbox="1" }
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
+    2. Add this to the rules booklet and place the reminder card near the ambition boxes:
 
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Guild Supremacy](4/piece_0_1.jpg){ width="150" }](4/piece_0_1.jpg){ data-lightbox="1" } [![Guild Supremacy](4/piece_0_0.jpg){ width="150" }](4/piece_0_0.jpg){ data-lightbox="1" }
