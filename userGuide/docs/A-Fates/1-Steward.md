@@ -12,6 +12,8 @@ title: 1. Steward
 
 ### Setup
 
+![Setup](1/piece_3_4.jpg)
+
 1. Gain the following cards:
    
     ![Imperial Authority](1/piece_3_3.jpg) ![Dealmakers](1/piece_3_2.jpg)
@@ -19,11 +21,9 @@ title: 1. Steward
 2. Gain the First Regent tile.
 
 ### Objective
-<figure markdown="span">
-![Objective](1/back_3_4.jpg) 
-</figure>
+  ![Objective](1/back_3_4.jpg) ![Resolution](1/piece_3_1.jpg)
 
-#### If completed
+#### If completed:
 1. Add these cards to the Court deck:
    
     ![Council Intrigue](1/piece_3_0.jpg) ![Tax Collectors](1/piece_2_6.jpg) ![Hunter Squads](1/piece_2_5.jpg)
@@ -32,7 +32,7 @@ title: 1. Steward
 
     ![Imperial Protectors](1/piece_2_4.jpg)
 
-#### If failed
+#### If failed:
 1. Add these cards to the Court deck:
    
     ![Empire Falls](1/piece_2_3.jpg) ![Lesser Regent](1/piece_2_2.jpg) ![Lesser Regent](1/piece_2_1.jpg)
@@ -45,14 +45,14 @@ title: 1. Steward
 
 ### Setup
 
+![Setup](1/piece_2_0.jpg)
+
 1. Add this card to the Edicts:
    
     ![Imperial Quorum](1/piece_1_6.jpg)
 
 ### Objective
-<figure markdown="span">
-![Objective](1/back_2_0.jpg) 
-</figure>
+![Objective](1/back_2_0.jpg) ![Resolution](1/piece_1_5.jpg)
 
 #### If completed
 1. Add these cards to the Court deck:
@@ -69,6 +69,8 @@ title: 1. Steward
 
 ### Setup
 
+![Setup](1/piece_0_4.jpg)
+
 1. Add this cards to the rules booklet:
    
     ![Imperial Sponsor](1/piece_0_3.jpg)
@@ -81,6 +83,5 @@ title: 1. Steward
 4. The First Regent chooses which Govern with Authority card to place on top of the stack.
 
 ### Objective (Grand Ambition)
-<figure markdown="span">
+
 ![Objective](1/back_0_4.jpg) 
-</figure>
