@@ -1,106 +1,99 @@
 ---
 weight: 2
+title: 2. Founder
 ---
-
-# 2. Founder
-
-!!! warning "Under construction"
-
-    Work in progress
+#Founder
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Founder](2/Fate2.jpg){ width="300" }
 </figure>
 
 ## Act I
 
 ### Setup
 
-1. Gain the following cards:
-   
-    ![Imperial Authority](1/piece_3_3.jpg) ![Dealmakers](1/piece_3_2.jpg)
+![Setup](2/piece_3_5.jpg){ width="300"}
 
-2. Gain the First Regent tile.
+1. Gain this card:
+   
+    [![Parade Fleets](2/piece_3_4.jpg){ width="150" }](2/piece_3_4.jpg){ data-lightbox="1" }
 
 ### Objective
 
-|2 players|3 players|4 players|
-|--|--|--|
-|20|17|14|
+  ![Objective](2/back_3_5.jpg){ width="300" } ![Resolution](2/piece_3_3.jpg){ width="300" }
 
-**Consolidate Your Imperial Power**
+#### If completed:
 
-Each time you win an ambition while you're the First Regent, **advance 1** for each Power you gain from it. 
+1. Gain this card:
+   
+    [![Book of Liberation](2/piece_3_2.jpg){ width="150" }](2/piece_3_2.jpg){ data-lightbox="1" }
 
-#### If completed
+2. Add these cards to the Court deck:
+   
+    [![Political Intrigue](2/piece_3_1.jpg){ width="150" }](2/piece_3_1.jpg){ data-lightbox="1" } [![Political Intrigue](2/piece_3_0.jpg){ width="150" }](2/piece_3_0.jpg){ data-lightbox="1" } [![Political Intrigue](2/piece_2_6.jpg){ width="150" }](2/piece_2_6.jpg){ data-lightbox="1" }
+
+#### If failed:
+
 1. Add these cards to the Court deck:
    
-    ![Council Intrigue](1/piece_3_0.jpg) ![Tax Collectors](1/piece_2_6.jpg) ![Hunter Squads](1/piece_2_5.jpg)
-
-2. Add this card to the rules booklet:
-
-    ![Imperial Protectors](1/piece_2_4.jpg)
-
-#### If failed
-1. Add these cards to the Court deck:
-   
-    ![Empire Falls](1/piece_2_3.jpg) ![Lesser Regent](1/piece_2_2.jpg) ![Lesser Regent](1/piece_2_1.jpg)
-
-2. Add this card (gained during [Setup](#setup)) to the Court deck:
-   
-    ![Dealmakers](1/piece_3_2.jpg)
+    [![Construction Union](2/piece_2_5.jpg){ width="150" }](2/piece_2_5.jpg){ data-lightbox="1" } [![Construction Union](2/piece_2_4.jpg){ width="150" }](2/piece_2_4.jpg){ data-lightbox="1" } [![Admin Union](2/piece_2_3.jpg){ width="150" }](2/piece_2_3.jpg){ data-lightbox="1" } [![Admin Union](2/piece_2_2.jpg){ width="150" }](2/piece_2_2.jpg){ data-lightbox="1" } 
 
 ## Act II
 
 ### Setup
 
-1. Add this card to the Edicts:
+![Setup](2/piece_2_1.jpg){ width="300" }
+
+1. Gain this card:
    
-    ![Imperial Quorum](1/piece_1_6.jpg)
+    [![Founder of the Commonwealth](2/piece_2_0.jpg){ width="150" }](2/piece_2_0.jpg){ data-lightbox="1" }
+
+2. Place the Commonwealth Ambition marker on your Fate card.
+
+3. Place these cards in the rules booklet:
+
+    [![Commonwealth Ambition](2/piece_1_6.jpg){ width="150" }](2/piece_1_6.jpg){ data-lightbox="1" } [![Call for Armistice](2/piece_1_5.jpg){ width="150" }](2/piece_1_5.jpg){ data-lightbox="1" } [![Commonwealth Membership](2/piece_0_5.jpg){ width="150" }](2/piece_0_5.jpg){ data-lightbox="1" }
+
+4. Tuck these cards under Call for Armistice:
+
+    [![Armistice](2/piece_1_4.jpg){ width="150" }](2/piece_1_4.jpg){ data-lightbox="1" } [![Armistice](2/piece_1_3.jpg){ width="150" }](2/piece_1_3.jpg){ data-lightbox="1" }
+
+5. Every player gains one of these:
+
+    [![Member of the Commonwealth](2/piece_1_2.jpg){ width="150" }](2/piece_1_2.jpg){ data-lightbox="1" } [![Member of the Commonwealth](2/piece_1_1.jpg){ width="150" }](2/piece_1_1.jpg){ data-lightbox="1" } [![Member of the Commonwealth](2/piece_1_0.jpg){ width="150" }](2/piece_1_0.jpg){ data-lightbox="1" } [![Member of the Commonwealth](2/piece_0_6.jpg){ width="150" }](2/piece_0_6.jpg){ data-lightbox="1" }
 
 ### Objective
-
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
-
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
+![Objective](2/back_2_1.jpg){ width="300" } ![Resolution](2/piece_0_4.jpg){ width="300" }
 
 #### If completed
-1. Add these cards to the Court deck:
+1. Gain this card:
    
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
+    [![Spirit of Freedom](2/piece_0_3.jpg){ width="150" }](2/piece_0_3.jpg){ data-lightbox="1" }
 
 #### If failed
 
-1. Add these cards to the Court deck:
+1. Scrap this card (from this Act's [Setup](#setup-1)) and the Commonwealth Ambition token:
    
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+    [![Founder of the Commonwealth](2/piece_2_0.jpg){ width="150" }](2/piece_2_0.jpg){ data-lightbox="1" }
+
+2. Add these cards to the Court deck:
+   
+    [![Construction Union](2/piece_2_5.jpg){ width="150" }](2/piece_2_5.jpg){ data-lightbox="1" } [![Construction Union](2/piece_2_4.jpg){ width="150" }](2/piece_2_4.jpg){ data-lightbox="1" } [![Admin Union](2/piece_2_3.jpg){ width="150" }](2/piece_2_3.jpg){ data-lightbox="1" } [![Admin Union](2/piece_2_2.jpg){ width="150" }](2/piece_2_2.jpg){ data-lightbox="1" } 
 
 ## Act III
 
 ### Setup
 
-1. Add this cards to the rules booklet:
+![Setup](2/piece_0_2.jpg){ width="300" }
+
+1. Remove Call for Armistice from the rules booklet and replace it with this card:
    
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+    [![Mass Call for Armistice](2/piece_0_1.jpg){ width="150" }](2/piece_0_1.jpg){ data-lightbox="1" }
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
+2. Gain this card:
 
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
+    [![Freedom Fighters](2/piece_0_0.jpg){ width="150" }](2/piece_0_0.jpg){ data-lightbox="1" }
 
 ### Objective (Grand Ambition)
 
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+![Objective](2/back_0_2.jpg){ width="300" }
