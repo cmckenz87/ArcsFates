@@ -4,7 +4,10 @@ theme:
   features:
     - navigation.footer
 extra_css:
-  - stylesheets/extra.css
+  - css/extra.css
+  - css/lightbox.css
+extra_javascript:
+  - js/lightbox-plus-jquery.js
 extra:
   generator: false
 plugins:

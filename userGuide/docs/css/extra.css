@@ -1,0 +1,8 @@
+:root {
+  --md-primary-fg-color: black;
+}
+
+img {
+  border-style: solid;
+  border-width: 1px;
+}
