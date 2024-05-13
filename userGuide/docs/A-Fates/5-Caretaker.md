@@ -1,115 +1,90 @@
 ---
 weight: 5
+title: 5. Caretaker
 ---
-
-# 5. Caretaker
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Caretaker
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Advocate](5/Fate5.jpg){ width="300" }
 </figure>
 
 ## Act I
 
-### Setup
+[![Setup](5/piece_2_6.jpg){ width="33%"}](5/piece_2_6.jpg){ data-lightbox="1" }[![Objective](5/back_2_6.jpg){ width="33%" }](5/back_2_6.jpg){ data-lightbox="1" }[![Resolution](5/piece_2_0.jpg){ width="33%" }](5/piece_2_0.jpg){ data-lightbox="1" }
 
-1. Gain the following cards:
+??? info "Setup details"
+    1. Gain these cards:
+    
+        [![Golem Beacon](5/piece_2_5.jpg){ width="150" }](5/piece_2_5.jpg){ data-lightbox="1" } [![Golem Hearth](5/piece_2_4.jpg){ width="150" }](5/piece_2_4.jpg){ data-lightbox="1" } [![Stone-Speakers](5/piece_2_3.jpg){ width="150" }](5/piece_2_3.jpg){ data-lightbox="1" }
+
+    2. Shuffle the 4 Sleeping Golem tokens. Place one on its Sleeping side at each gate in clusters without Imperial ships.
    
-    ![Imperial Authority](1/piece_3_3.jpg) ![Dealmakers](1/piece_3_2.jpg)
+    3. Add these cards to the rules booklet:
 
-2. Gain the First Regent tile.
+        [![Golems](5/piece_2_2.jpg){ width="150" }](5/piece_2_2.jpg){ data-lightbox="1" } [![Golem Actions](5/piece_2_1.jpg){ width="150" }](5/piece_2_1.jpg){ data-lightbox="1" }
 
-### Objective
+??? success "If successful"
+    1. Scrap this card (from this Act's Setup): 
+      
+        [![Golem Beacon](5/piece_2_5.jpg){ width="150" }](5/piece_2_5.jpg){ data-lightbox="1" }
 
-|2 players|3 players|4 players|
-|--|--|--|
-|20|17|14|
+    2. Place all Golem tokens from the map onto your Golem Hearth.
 
-**Consolidate Your Imperial Power**
-
-Each time you win an ambition while you're the First Regent, **advance 1** for each Power you gain from it. 
-
-#### If completed
-1. Add these cards to the Court deck:
+    3. Add 1 random lore card per player to the Court Deck. 
    
-    ![Council Intrigue](1/piece_3_0.jpg) ![Tax Collectors](1/piece_2_6.jpg) ![Hunter Squads](1/piece_2_5.jpg)
+    4. Add these cards to the court deck:
 
-2. Add this card to the rules booklet:
+        [![Unstable Harvester](5/piece_1_6.jpg){ width="150" }](5/piece_1_6.jpg){ data-lightbox="1" } [![Unstable Seeker](5/piece_1_5.jpg){ width="150" }](5/piece_1_5.jpg){ data-lightbox="1" } [![Unstable Protector](5/piece_1_4.jpg){ width="150" }](5/piece_1_4.jpg){ data-lightbox="1" } [![Unstable Warrior](5/piece_1_3.jpg){ width="150" }](5/piece_1_3.jpg){ data-lightbox="1" }
 
-    ![Imperial Protectors](1/piece_2_4.jpg)
+??? failure "If failed"
+    1. Scrap this card (from this Act's Setup): 
+      
+        [![Golem Beacon](5/piece_2_5.jpg){ width="150" }](5/piece_2_5.jpg){ data-lightbox="1" }
+        
+    2. Add this card (from this Act's Setup) to the court deck :
+      
+        [![Stone-Speakers](5/piece_2_3.jpg){ width="150" }](5/piece_2_3.jpg){ data-lightbox="1" }
 
-#### If failed
-1. Add these cards to the Court deck:
+    3. Scrap all Golem tokens on the map.
+
+    4. For each Golem still in play, add the corresponding card to the court deck:
    
-    ![Empire Falls](1/piece_2_3.jpg) ![Lesser Regent](1/piece_2_2.jpg) ![Lesser Regent](1/piece_2_1.jpg)
-
-2. Add this card (gained during [Setup](#setup)) to the Court deck:
-   
-    ![Dealmakers](1/piece_3_2.jpg)
+        [![Unstable Harvester](5/piece_1_6.jpg){ width="150" }](5/piece_1_6.jpg){ data-lightbox="1" } [![Unstable Seeker](5/piece_1_5.jpg){ width="150" }](5/piece_1_5.jpg){ data-lightbox="1" } [![Unstable Protector](5/piece_1_4.jpg){ width="150" }](5/piece_1_4.jpg){ data-lightbox="1" } [![Unstable Warrior](5/piece_1_3.jpg){ width="150" }](5/piece_1_3.jpg){ data-lightbox="1" }  
 
 ## Act II
 
-### Setup
+[![Setup](5/piece_1_2.jpg){ width="33%" }](5/piece_1_2.jpg){ data-lightbox="1" }[![Objective](5/back_1_2.jpg){ width="33%" }](5/back_1_2.jpg){ data-lightbox="1" }[![Resolution](5/piece_0_5.jpg){ width="33%px" }](5/piece_0_5.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. Gain this card:
+    
+        [![Librarians](5/piece_1_1.jpg){ width="150" }](5/piece_1_1.jpg){ data-lightbox="1" }
 
-### Objective
+    2. Add this card to the rules booklet:
+    
+        [![Knowledge Set Free](5/piece_1_0.jpg){ width="150" }](5/piece_1_0.jpg){ data-lightbox="1" }
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+    3. Shuffle this card into the action deck:
+    
+        [![Event](5/piece_0_6.jpg){ width="150" }](5/piece_0_6.jpg){ data-lightbox="1" }
 
-**Expand the Empire**
+    4. Flip all Sleeping Golems to awake.
 
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
+??? success "If successful"
+    1. Add these cards to the Court deck:
+      
+        [![Golem Worship](5/piece_0_4.jpg){ width="150" }](5/piece_0_4.jpg){ data-lightbox="1" } [![Golem Worship](5/piece_0_3.jpg){ width="150" }](5/piece_0_3.jpg){ data-lightbox="1" } [![Golem Worship](5/piece_0_2.jpg){ width="150" }](5/piece_0_2.jpg){ data-lightbox="1" }
 
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+??? failure "If failed"
+    1. Add all Unstable cards from the Court discard pile to the Court deck.
 
 ## Act III
 
-### Setup
+[![Setup](5/piece_0_1.jpg){ width="33%" }](5/piece_0_1.jpg){ data-lightbox="1" }[![Objective](5/back_0_1.jpg){ width="33%" }](5/back_0_1.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Add this card to the rules booklet:
+    
+        [![Golems Sate Their Appetite](5/piece_0_0.jpg){ width="150" }](5/piece_0_0.jpg){ data-lightbox="1" }
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
-
-### Success
-
-### Failure
-
-## Act III
-
-### Setup
+    2. Flip all Sleeping Golems to Awake.

@@ -27,7 +27,7 @@ title: 4. Advocate
       
         [![Guild Overseers](4/piece_3_2.jpg){ width="150" }](4/piece_3_2.jpg){ data-lightbox="1" } [![Guild Struggle](4/piece_2_1.jpg){ width="150" }](4/piece_2_1.jpg){ data-lightbox="1" }
 
-    2. For each Guild card suit that you have more than each other Rvial, add the corresponding card to the Court deck:
+    2. For each Guild card suit that you have more than each other Rival, add the corresponding card to the Court deck:
    
         [![Material Liasons](4/piece_3_0.jpg){ width="150" }](4/piece_3_0.jpg){ data-lightbox="1" } [![Fuel Liasons](4/piece_2_6.jpg){ width="150" }](4/piece_2_6.jpg){ data-lightbox="1" } [![Weapons Liasons](4/piece_2_5.jpg){ width="150" }](4/piece_2_5.jpg){ data-lightbox="1" } [![Relic Liasons](4/piece_2_4.jpg){ width="150" }](4/piece_2_4.jpg){ data-lightbox="1" } [![Psionic Liasons](4/piece_2_3.jpg){ width="150" }](4/piece_2_3.jpg){ data-lightbox="1" }       
 
