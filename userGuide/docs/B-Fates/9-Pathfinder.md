@@ -1,69 +1,67 @@
 ---
-weight: 1
+weight: 9
+title: 9. Pathfinder
 ---
-
-# 9. Pathfinder
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Pathfinder
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Pathfinder](9/Fate9.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](9/piece_1_3.jpg){ width="33%" }](9/piece_1_3.jpg){ data-lightbox="1" }[![Objective](9/back_1_3.jpg){ width="33%" }](9/back_1_3.jpg){ data-lightbox="1" }[![Resolution](9/piece_1_0.jpg){ width="33%px" }](9/piece_1_0.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. **You gain a Flagship** --take a Flagship board and set it up as describe on the board back.
+    
+    2. Place 1 starport on your Slipstream Drive Upgrade. Place 1 city on your Hull Upgrade.
+    
+    3. Gain the Uncovering Clues (02).
+    
+        [![Uncovering Clues](9/piece_1_2.jpg){ width="33%" }](9/piece_1_2.jpg){ data-lightbox="1" }
+    
+    4. The player to your right secretly writes down the cluster number and planet ID symbol of any one planet on the map.
+    
+    5. Give the Clues to the Portal card (03), 6 Clue tokens, and the Portal token to the player on your right. *(The Clues are double-sided!)*
 
-### Objective
+        [![Clues to the Portal](9/piece_1_1.jpg){ width="33%" }](9/piece_1_1.jpg){ data-lightbox="1" }
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+??? success "If successful"
+    1. Add Call to Pilgrimage (05) to the Court deck.
+    
+        [![Call to Pilgrimage](9/piece_0_6.jpg){ width="33%" }](9/piece_0_6.jpg){ data-lightbox="1" }
+    
+    2. Scrap Portal Seekers (06).
+    
+    3. Build 1 Upgrade or Armor on your Flagship board, ignoring the need to be at a specific planet.
 
-**Expand the Empire**
+??? failure "If failed"
+    1. Scrap Call to Pilgrimage (05).
+    
+    2. Add Portal Seekers (06) to the Court deck.
+    
+        [![Portal Seekers](9/piece_0_5.jpg){ width="33%" }](9/piece_0_5.jpg){ data-lightbox="1" }
 
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+    3. Place the Portal token on the system that was recorded during setup.
+    
+    4. Scrap all Clue tokens, your Uncovering Clues card (02), and the Clues to the Portal card (03).
 
 ## Act III
 
-### Setup
+[![Setup](9/piece_0_4.jpg){ width="33%" }](9/piece_0_4.jpg){ data-lightbox="1" }[![Objective](9/back_0_4.jpg){ width="33%" }](9/back_0_4.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Gain the Pilgrims card (08).
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
+        [![Pilgrims](9/piece_0_3.jpg){ width="33%" }](9/piece_0_3.jpg){ data-lightbox="1" }
+    
+    2. Place 1 Seek the Portal card (09) on top of the Court deck.
 
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
+        [![Seek the Portal](9/piece_0_2.jpg){ width="33%" }](9/piece_0_2.jpg){ data-lightbox="1" }
+    
+    3. Tuck the other 2 Seek the Portal cards (10-11) under the Pilgrims and the Portal card (08).
 
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Seek the Portal](9/piece_0_1.jpg){ width="33%" }](9/piece_0_1.jpg){ data-lightbox="1" } [![Seek the Portal](9/piece_0_0.jpg){ width="33%" }](9/piece_0_0.jpg){ data-lightbox="1" }
+    
+    4. Collect the 6 Pilgrim tokens. Roll the event die and place 1 Pilgrim token at each planet of the rolled symbol.

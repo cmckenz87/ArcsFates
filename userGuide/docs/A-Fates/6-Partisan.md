@@ -1,114 +1,81 @@
 ---
 weight: 6
+title: 6. Partisan
 ---
-
-# 6. Partisan
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Partisan
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Partisan](6/Fate6.jpg){ width="300" }
 </figure>
 
 ## Act I
 
-### Setup
+[![Setup](6/piece_3_3.jpg){ width="33%"}](6/piece_3_3.jpg){ data-lightbox="1" }[![Objective](6/back_3_3.jpg){ width="33%" }](6/back_3_3.jpg){ data-lightbox="1" }[![Resolution](6/piece_3_0.jpg){ width="33%" }](6/piece_3_0.jpg){ data-lightbox="1" }
 
-1. Gain the following cards:
-   
-    ![Imperial Authority](1/piece_3_3.jpg) ![Dealmakers](1/piece_3_2.jpg)
+??? info "Setup details"
+    1. Gain Informants (02) and Partisan Seizing (03).
+    
+        [![Informants](6/piece_3_2.jpg){ width="150" }](6/piece_3_2.jpg){ data-lightbox="1" } [![Partisan Seizing](6/piece_3_1.jpg){ width="150" }](6/piece_3_1.jpg){ data-lightbox="1" }
 
-2. Gain the First Regent tile.
+??? success "If successful"
+    1. Add the 5 Loyal cards (05-09) to the Court deck. 
+      
+        [![Loyal Engineers](6/piece_2_6.jpg){ width="150" }](6/piece_2_6.jpg){ data-lightbox="1" } [![Loyal Pilots](6/piece_2_5.jpg){ width="150" }](6/piece_2_5.jpg){ data-lightbox="1" } [![Loyal Marines](6/piece_2_4.jpg){ width="150" }](6/piece_2_4.jpg){ data-lightbox="1" } [![Loyal Empahts](6/piece_2_3.jpg){ width="150" }](6/piece_2_3.jpg){ data-lightbox="1" } [![Loyal Keepers](6/piece_2_2.jpg){ width="150" }](6/piece_2_2.jpg){ data-lightbox="1" }
 
-### Objective
+    2. Gain Galactic Bards (10).
 
-|2 players|3 players|4 players|
-|--|--|--|
-|20|17|14|
+        [![Galactic Bards](6/piece_2_1.jpg){ width="150" }](6/piece_2_1.jpg){ data-lightbox="1" }
 
-**Consolidate Your Imperial Power**
+    3. Scrap the Spacing Union (11), Arms Union (12), and 2 Outrage Spreads (13-14).
 
-Each time you win an ambition while you're the First Regent, **advance 1** for each Power you gain from it. 
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Council Intrigue](1/piece_3_0.jpg) ![Tax Collectors](1/piece_2_6.jpg) ![Hunter Squads](1/piece_2_5.jpg)
-
-2. Add this card to the rules booklet:
-
-    ![Imperial Protectors](1/piece_2_4.jpg)
-
-#### If failed
-1. Add these cards to the Court deck:
-   
-    ![Empire Falls](1/piece_2_3.jpg) ![Lesser Regent](1/piece_2_2.jpg) ![Lesser Regent](1/piece_2_1.jpg)
-
-2. Add this card (gained during [Setup](#setup)) to the Court deck:
-   
-    ![Dealmakers](1/piece_3_2.jpg)
+??? failure "If failed"
+    1. Scrap the 5 Loyal cards (05-09).
+    
+    1. Add Galactic Bards (1), Spacing Union (11), Arms Union (12), and 2 Outrage Spreads (13-14) Court deck.
+      
+        [![Galactic Bards](6/piece_2_1.jpg){ width="150" }](6/piece_2_1.jpg){ data-lightbox="1" } [![Spacing Union](6/piece_2_0.jpg){ width="150" }](6/piece_2_0.jpg){ data-lightbox="1" } [![Arms Union](6/piece_1_6.jpg){ width="150" }](6/piece_1_6.jpg){ data-lightbox="1" } [![Outrage Spreads](6/piece_1_5.jpg){ width="150" }](6/piece_1_5.jpg){ data-lightbox="1" } [![Outrage Spreads](6/piece_1_4.jpg){ width="150" }](6/piece_1_4.jpg){ data-lightbox="1" } 
+        
+    2. Scrap your Partisan Seizing card and clear all your Outrage. *(Partisan Seizing was gained during this Act's Setup.)*
 
 ## Act II
 
-### Setup
+[![Setup](6/piece_1_3.jpg){ width="33%" }](6/piece_1_3.jpg){ data-lightbox="1" }[![Objective](6/back_1_3.jpg){ width="33%" }](6/back_1_3.jpg){ data-lightbox="1" }[![Resolution](6/piece_1_0.jpg){ width="33%px" }](6/piece_1_0.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. Add Partisan Seizing (16) to the rules booklet. **Explain it to everyone.**
+        
+        [![Partisan Seizing](6/piece_1_2.jpg){ width="33%" }](6/piece_1_2.jpg){ data-lightbox="1" }
 
-### Objective
+    2. As a reminder, tuck your copy of Partisan Seizing (04) under the map near the card play area, so only its title shows. *(Partisan Seizing was gained during Act I's Setup.)*
+    
+    3. Gain People's Hero (17).
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+        [![Guilds Decry Terror](6/piece_1_1.jpg){ width="33%" }](6/piece_1_1.jpg){ data-lightbox="1" }
 
-**Expand the Empire**
+??? success "If successful"
+    1. Add Guilds Decry Terror (19) to the rules booklet.
+    
+        [![Guilds Decry Terror](6/piece_0_6.jpg){ width="33%" }](6/piece_0_6.jpg){ data-lightbox="1" }    
+    
+    2. Add 2 Terror Strikes (20-21) to the Court deck.
 
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
+        [![Terror Strikes](6/piece_0_5.jpg){ width="33%" }](6/piece_0_5.jpg){ data-lightbox="1" } [![Terror Strikes](6/piece_0_4.jpg){ width="33%" }](6/piece_0_4.jpg){ data-lightbox="1" }    
+    
+    3. Scrap the Spacing Union (22) and Arms Union (23).
 
-**Ensure the Emperor's Tribute**
+??? failure "If failed"
+    1. Scrap Guild Decry Terror (19) and the 2 Terror Strikes (20-21).
+    
+    2. Add Spacing Union (22) and Arms Union (23) to the Court deck.
 
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
-
-## Act III
-
-### Setup
-
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
-
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
-### Success
-
-### Failure
+        [![Spacing Union](6/piece_0_3.jpg){ width="33%" }](6/piece_0_3.jpg){ data-lightbox="1" } [![Arms Union](6/piece_0_2.jpg){ width="33%" }](6/piece_0_2.jpg){ data-lightbox="1" }   
 
 ## Act III
 
-### Setup
+[![Setup](6/piece_0_1.jpg){ width="33%" }](6/piece_0_1.jpg){ data-lightbox="1" }[![Objective](6/back_0_1.jpg){ width="33%" }](6/back_0_1.jpg){ data-lightbox="1" }
+
+??? info "Setup details"
+
+    1. Gain Sower of Division (25).
+
+        [![Sower of Division](6/piece_0_0.jpg){ width="33%" }](6/piece_0_0.jpg){ data-lightbox="1" }

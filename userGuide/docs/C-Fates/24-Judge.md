@@ -1,36 +1,23 @@
 ---
-weight: 8
+weight: 24
+title: 24. Judge
 ---
-
-# 24. Judge
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Judge
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Judge](24/Fate24.jpg){ width="300" }
 </figure>
 
 ## Act III
 
-### Setup
+[![Setup](24/piece_1_0.jpg){ width="33%" }](24/piece_1_0.jpg){ data-lightbox="1" }[![Objective](24/back_1_0.jpg){ width="33%" }](24/back_1_0.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    2. Gain Vow of Fairness (02), The Arbiter (03), and Judge's Chosen (04).
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
+        [![Vow of Fairness](24/piece_0_3.jpg){ width="33%" }](24/piece_0_3.jpg){ data-lightbox="1" } [![The Arbiter](24/piece_0_2.jpg){ width="33%" }](24/piece_0_2.jpg){ data-lightbox="1" }
 
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
+    3. Add Judge Sets Agenda (05) to the rules booklet.
 
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Final Objective
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Judge Sets Agenda](24/piece_0_1.jpg){ width="33%" }](24/piece_0_1.jpg){ data-lightbox="1" }

@@ -1,36 +1,32 @@
 ---
-weight: 3
+weight: 19
+title: 19. Redeemer
 ---
-
-# 19. Redeemer
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Redeemer
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Redeemer](19/Fate19.jpg){ width="300" }
 </figure>
 
 ## Act III
 
-### Setup
+[![Setup](19/piece_0_3.jpg){ width="33%" }](19/piece_0_3.jpg){ data-lightbox="1" }[![Objective](19/back_0_3.jpg){ width="33%" }](19/back_0_3.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
-
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Final Objective
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+??? info "Setup details"
+    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    
+    2. Provoke Relic Outrage.
+    
+    3. Gain Ire of the Keepers (02).
+    
+        [![Ire of the Keepers](19/piece_0_2.jpg){ width="33%" }](19/piece_0_2.jpg){ data-lightbox="1" }
+    
+    4. Add Rebuke of the Keepers (03) to the rules booklet. **Explain it to everyone.**
+    
+        [![Rebuke of the Keepers](19/piece_0_1.jpg){ width="33%" }](19/piece_0_1.jpg){ data-lightbox="1" }
+    
+    5. Place Relic Fence (04) on top of the Court deck.
+    
+        [![Relic Fence](19/piece_0_0.jpg){ width="33%" }](19/piece_0_0.jpg){ data-lightbox="1" }
+    
+    6. With 2 players, return all Relics from the Keeper ambition box to the supply.

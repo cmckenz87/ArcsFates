@@ -1,36 +1,30 @@
 ---
-weight: 4
+weight: 20
+title: 20. Guardian
 ---
-
-# 20. Guardian
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Guardian
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Guardian](20/Fate20.jpg){ width="300" }
 </figure>
 
 ## Act III
 
-### Setup
+[![Setup](20/piece_0_3.jpg){ width="33%" }](20/piece_0_3.jpg){ data-lightbox="1" }[![Objective](20/back_0_3.jpg){ width="33%" }](20/back_0_3.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
+??? info "Setup details"
+    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    
+    2. You Provoke Outrage for Fuel and Material. *(Discard these resources and cards. Place agents on their Outrage icons.)*
+    
+    3. With 2 players, return all Material and Fuel on ambition boxes to the supply.
+    
+    4. Place the Edenguard Ambition tile by the Tycoon ambition box.
    
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+    5. Green Green Vault (02) and Ire of the Tycoons (03)
+    
+        [![Green Vault](20/piece_0_2.jpg){ width="33%" }](20/piece_0_2.jpg){ data-lightbox="1" } [![Ire of the Tycoons](20/piece_0_1.jpg){ width="33%" }](20/piece_0_1.jpg){ data-lightbox="1" }
+    
+    6. Add the Edenguard Ambition (04) to the rules booklet. **Explain it to everyone.**
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Final Objective
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Edenguard Ambition](20/piece_0_0.jpg){ width="33%" }](20/piece_0_0.jpg){ data-lightbox="1" }

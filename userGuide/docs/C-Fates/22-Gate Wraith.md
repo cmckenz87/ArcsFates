@@ -1,36 +1,36 @@
 ---
-weight: 6
+weight: 22
+title: 22. Gate Wraith
 ---
-
-# 22. Gate Wraith
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Gate Wraith
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Gate Wraith](22/Fate22.jpg){ width="300" }
 </figure>
 
 ## Act III
 
-### Setup
+[![Setup](22/piece_1_1.jpg){ width="33%" }](22/piece_1_1.jpg){ data-lightbox="1" }[![Objective](22/back_1_1.jpg){ width="33%" }](22/back_1_1.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    
+    2. Gain the Catapult Overdrive (02) and Breaking Gates & Placing Passages (03).
+    
+        [![Catapult Overdrive](22/piece_1_0.jpg){ width="33%" }](22/piece_1_0.jpg){ data-lightbox="1" } [![Breaking Gates & Placing Passages](22/piece_0_3.jpg){ width="33%" }](22/piece_0_3.jpg){ data-lightbox="1" }
+    
+    3. Collect the 6 Passage tokens. Place one on any gate. Resolve step 3 of Breaking Gates & Placing Passages (03).
+    
+    4. Roll the event die and place it in the central map area.
+    
+    5. Place The Dead Live (04) near the map by the chapter track.
+    
+        [![The Dead Live](22/piece_0_2.jpg){ width="33%" }](22/piece_0_2.jpg){ data-lightbox="1" }
+    
+    6. Add Passages & The Twisted Passage (05) to the rules booklet. **Explain it to everyone.**
+    
+        [![Passages & The Twisted Passage](22/piece_0_1.jpg){ width="33%" }](22/piece_0_1.jpg){ data-lightbox="1" }
+    
+    7. Place Passage Storms (06) on top of the Court deck.
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Final Objective
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Passage Storms](22/piece_0_0.jpg){ width="33%" }](22/piece_0_0.jpg){ data-lightbox="1" }

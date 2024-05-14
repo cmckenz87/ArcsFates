@@ -1,69 +1,55 @@
 ---
-weight: 4
+weight: 12
+title: 12. Pirate
 ---
-
-# 12. Pirate
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Pirate
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Pirate](12/Fate12.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](12/piece_1_4.jpg){ width="33%" }](12/piece_1_4.jpg){ data-lightbox="1" }[![Objective](12/back_1_4.jpg){ width="33%" }](12/back_1_4.jpg){ data-lightbox="1" }[![Resolution](12/piece_1_1.jpg){ width="33%px" }](12/piece_1_1.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. **You gain a Flagship** --take a Flagship board and set it up as describe on the board back.
+    2. 
+    3. Place 1 fresh starport each on your Tractor Beam and Defense Array Upgrades.
+    4. 
+    5. Gain the Pirate Hoard (02) and Pirate Fleet (03).
 
-### Objective
+        [![Pirate Hoard](12/piece_1_3.jpg){ width="33%" }](12/piece_1_3.jpg){ data-lightbox="1" } [![Pirate Fleet](12/piece_1_2.jpg){ width="33%" }](12/piece_1_2.jpg){ data-lightbox="1" }
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+??? success "If successful"
+    1. Gain Pirate Smugglers (05).
+    
+        [![Pirate Smugglers](12/piece_1_0.jpg){ width="33%" }](12/piece_1_0.jpg){ data-lightbox="1" }
+    
+    2. Scrap Call to Action (06) and Silver-Tongues (07).
+    
+    3. You may spend Fuel, Material, and Relics on your Pirate Hoard for their Prelude actions, ignoring ship **build** limits for Material. You may place any resources from it onto your player board. Return all resources remaining on it to the supply.
 
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+??? failure "If failed"
+    1. Add your Pirate Fleet (03), Pirate Smugglers (05), Call to Action (06), and Silver-Tongues (07) to the Court deck.
+     
+        [![Pirate Smugglers](12/piece_1_0.jpg){ width="33%" }](12/piece_1_0.jpg){ data-lightbox="1" } [![Call to Action](12/piece_0_6.jpg){ width="33%" }](12/piece_0_6.jpg){ data-lightbox="1" } [![Silver-Tongues](12/piece_0_5.jpg){ width="33%" }](12/piece_0_5.jpg){ data-lightbox="1" }
+    
+    2. Return all resources from your Pirate Hoard to the supply.
 
 ## Act III
 
-### Setup
+[![Setup](12/piece_0_4.jpg){ width="33%" }](12/piece_0_4.jpg){ data-lightbox="1" }[![Objective](12/back_0_4.jpg){ width="33%" }](12/back_0_4.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Shuffle the 2 Rumors Spread cards (09-10) into the Court deck.
+    
+        [![Rumors Spread](12/piece_0_3.jpg){ width="33%" }](12/piece_0_3.jpg){ data-lightbox="1" } [![Rumors Spread](12/piece_0_2.jpg){ width="33%" }](12/piece_0_2.jpg){ data-lightbox="1" }
+    
+    2. Place the 2 True Rumor and 2 False Rumor tokens each **face down** on a different planet. You may peek at them. *(Read below for details.)*
+    
+    3. Add Rumors of the Haven (11) and Sharing Rumors (12) to the rules booklet. **Explain them to everyone.**
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
+        [![Rumors of the Haven](12/piece_0_1.jpg){ width="33%" }](12/piece_0_1.jpg){ data-lightbox="1" } [![Sharing Rumors](12/piece_0_0.jpg){ width="33%" }](12/piece_0_0.jpg){ data-lightbox="1" }
 
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+*The True Rumors show the cluster and ID symbol of the Pirate Haben, which you must hide. For example, placing the "Cluster Correct" Rumor on a planet in cluster 5 and the "Symbol Correct" Rumor on a triangle planet in cluster 2 means the Haven is secret at the 5-triangle planet.*

@@ -1,69 +1,63 @@
 ---
-weight: 2
+weight: 10
+title: 10. Hegemon
 ---
-
-# 10. Hegemon
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Hegemon
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Admiral](10/Fate10.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](10/piece_1_4.jpg){ width="33%" }](10/piece_1_4.jpg){ data-lightbox="1" }[![Objective](10/back_1_4.jpg){ width="33%" }](10/back_1_4.jpg){ data-lightbox="1" }[![Resolution](10/piece_1_0.jpg){ width="33%px" }](10/piece_1_0.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. **You gain a Flagship** --take a Flagship board and set it up as describe on the board back.
+    
+    2. Place 1 fresh starport each on your Defense Array and Slipstrem Drive Upgrades.
+    
+    3. **Replenish your fleet**-if you have fewer than **6 Loyal ships** on the map other than your Flagship, place ships at your Flagship until you have 6.
+    
+    4. Scrap any 4 Loyal ships.
+    
+    5. Gain the Planting Banners (02). Collect the 8 Banner tokens.
+    
+        [![Planting Banners](10/piece_1_3.jpg){ width="33%" }](10/piece_1_3.jpg){ data-lightbox="1" }
+    
+    6. Add the Banners of Hegemony card (03) to the rules booklet. **Explain it to everyone.**
+    
+        [![Banners of Hegemony](10/piece_1_2.jpg){ width="33%" }](10/piece_1_2.jpg){ data-lightbox="1" }
+    
+    7. Gain Song of the Banner (04).
 
-### Objective
+        [![Song of the Banner](10/piece_1_1.jpg){ width="33%" }](10/piece_1_1.jpg){ data-lightbox="1" }
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+??? success "If successful"
+    1. Gain Mind Managers (06).
+    
+        [![Mind Managers](10/piece_0_6.jpg){ width="33%" }](10/piece_0_6.jpg){ data-lightbox="1" }
+    
+    2. Add 2 Prison Wardens (07-08) to the Court deck.
+    
+        [![Prison Wardens](10/piece_0_5.jpg){ width="33%" }](10/piece_0_5.jpg){ data-lightbox="1" } [![Prison Wardens](10/piece_0_4.jpg){ width="33%" }](10/piece_0_4.jpg){ data-lightbox="1" }
+    
+    3. Scrap the 2 Against the Hegemony cards (09-10).
 
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+??? failure "If failed"
+    1. Scrap Mind Managers (06).
+    
+    2. Add 2 Prison Wardens (07-08) and 2 Against Hegemony (09-10) to the Court deck.
+    
+        [![Prison Wardens](10/piece_0_5.jpg){ width="33%" }](10/piece_0_5.jpg){ data-lightbox="1" } [![Prison Wardens](10/piece_0_4.jpg){ width="33%" }](10/piece_0_4.jpg){ data-lightbox="1" } [![Against Hegemony](10/piece_0_3.jpg){ width="33%" }](10/piece_0_3.jpg){ data-lightbox="1" } [![Against Hegemony](10/piece_0_2.jpg){ width="33%" }](10/piece_0_2.jpg){ data-lightbox="1" }
+    
+    3. Scrap all Banner tokens that are not on the map.
 
 ## Act III
 
-### Setup
+[![Setup](10/piece_0_1.jpg){ width="33%" }](10/piece_0_1.jpg){ data-lightbox="1" }[![Objective](10/back_0_1.jpg){ width="33%" }](10/back_0_1.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Gain the Happy Hosts card (12).
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Happy Hosts](10/piece_0_0.jpg){ width="33%" }](10/piece_0_0.jpg){ data-lightbox="1" }

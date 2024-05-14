@@ -1,69 +1,49 @@
 ---
-weight: 5
+weight: 13
+title: 13. Blight Speaker
 ---
-
-# 13. Caretaker
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Blight Speaker
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Blight Speaker](13/Fate13.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](13/piece_1_5.jpg){ width="33%" }](13/piece_1_5.jpg){ data-lightbox="1" }[![Objective](13/back_1_5.jpg){ width="33%" }](13/back_1_5.jpg){ data-lightbox="1" }[![Resolution](13/piece_1_3.jpg){ width="33%px" }](13/piece_1_3.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. Gain Spore Ships (02).
+    
+        [![Spore Ships](13/piece_1_4.jpg){ width="33%" }](13/piece_1_4.jpg){ data-lightbox="1" }
+    
+    2. Scrap 2 Loyal ships from your supply or the map.
+    
+    3. **Replenish your fleet** - if you have fewer than **8 Loyal ships** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
 
-### Objective
+??? success "If successful"
+    1. Gain Blight Fury (04).
+    
+        [![Blight Fury](13/piece_1_2.jpg){ width="33%" }](13/piece_1_2.jpg){ data-lightbox="1" }
+    
+    2. Add Blight Hunters (05), Blight Reapers (06), and the 3 Blight Purge cards (07-09) to the Court deck.
+    
+        [![Blight Hunters](13/piece_1_1.jpg){ width="33%" }](13/piece_1_1.jpg){ data-lightbox="1" } [![Blight Reapers](13/piece_1_0.jpg){ width="33%" }](13/piece_1_0.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_6.jpg){ width="33%" }](13/piece_0_6.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_5.jpg){ width="33%" }](13/piece_0_5.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_4.jpg){ width="33%" }](13/piece_0_4.jpg){ data-lightbox="1" }
+    
+    3. Scrap Blight Panic (10) and Blight Looms (11).
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+??? failure "If failed"
+    1. Scrap Blight Fury (04), Blight Hunters (05), Blight Reapers (06), and 2 Blight Purge (07-08) cards.
+    
+    2. Add 1 Blight Purge card (09), Blight Panic (10), and Blight Looms (11) to the Court deck.
 
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+        [![Blight Purge](13/piece_0_4.jpg){ width="33%" }](13/piece_0_43.jpg){ data-lightbox="1" } [![Blight Panic](13/piece_0_3.jpg){ width="33%" }](13/piece_0_3.jpg){ data-lightbox="1" } [![Blight Looms](13/piece_0_2.jpg){ width="33%" }](13/piece_0_2.jpg){ data-lightbox="1" }
 
 ## Act III
 
-### Setup
+[![Setup](13/piece_0_1.jpg){ width="33%" }](13/piece_0_1.jpg){ data-lightbox="1" }[![Objective](13/back_0_1.jpg){ width="33%" }](13/back_0_1.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Gain Blight Hunger (13).
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Blight Hunger](13/piece_0_0.jpg){ width="33%" }](13/piece_0_0.jpg){ data-lightbox="1" }

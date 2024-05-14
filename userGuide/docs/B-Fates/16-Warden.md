@@ -1,69 +1,63 @@
 ---
-weight: 8
+weight: 16
+title: 16. Warden
 ---
-
-# 16. Warden
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Warden
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Warden](16/Fate16.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](16/piece_2_4.jpg){ width="33%" }](16/piece_2_4.jpg){ data-lightbox="1" }[![Objective](16/back_2_4.jpg){ width="33%" }](16/back_2_4.jpg){ data-lightbox="1" }[![Resolution](16/piece_1_1.jpg){ width="33%px" }](16/piece_1_1.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. Collect the 6 Seat tokens. *(They are labeled 1st through 6th)*
+    
+    2. Gain Claims of Nobility (02).
+    
+        [![Claims of Nobility](16/piece_2_3.jpg){ width="33%" }](16/piece_2_3.jpg){ data-lightbox="1" }
+    
+    3. Add the 6 Lord title cards (03-08) to the supply.
+    
+        [![Lord of the 1st Cluster](16/piece_2_2.jpg){ width="33%" }](16/piece_2_2.jpg){ data-lightbox="1" } [![Lord of the 2nd Cluster](16/piece_2_1.jpg){ width="33%" }](16/piece_2_1.jpg){ data-lightbox="1" } [![Lord of the 3rd Cluster](16/piece_2_0.jpg){ width="33%" }](16/piece_2_0.jpg){ data-lightbox="1" } [![Lord of the 4th Cluster](16/piece_1_6.jpg){ width="33%" }](16/piece_1_6.jpg){ data-lightbox="1" } [![Lord of the 5th Cluster](16/piece_1_5.jpg){ width="33%" }](16/piece_1_5.jpg){ data-lightbox="1" } [![Lord of the 6th Cluster](16/piece_1_4.jpg){ width="33%" }](16/piece_1_4.jpg){ data-lightbox="1" }
+    
+    4. Add the Seats & Fiefs card (09) and Feudal Law card (10) to the rules booklet. **Explain them to everyone.**
+    
+        [![Seats & Fiefs](16/piece_1_3.jpg){ width="33%" }](16/piece_1_3.jpg){ data-lightbox="1" } [![Feudal Law](16/piece_1_2.jpg){ width="33%" }](16/piece_1_2.jpg){ data-lightbox="1" }
+    
+    5. **Replenish your fleet** - if you have fewer than **8 Loyal ships** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
 
-### Objective
+??? success "If successful"
+    1. Gain Warden's Levy (12).
+    
+        [![Warden's Levy](16/piece_1_0.jpg){ width="33%" }](16/piece_1_0.jpg){ data-lightbox="1" }
+    
+    2. Add 2 Feast Days (13-14) to the Court deck.
+    
+        [![Feast Day](16/piece_0_6.jpg){ width="33%" }](16/piece_0_6.jpg){ data-lightbox="1" } [![Feast Day](16/piece_0_5.jpg){ width="33%" }](16/piece_0_5.jpg){ data-lightbox="1" }
+    
+    3. Scrap Skirmishers (15) and Sworn Guardians (16).
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
+??? failure "If failed"
+    1. Scrap Claims of Nobility (02) and all Seat tokens that are not on the map.
+    
+    2. Scrap all Lord title cards (03-08) matching the scrapped Seat tokens.
+    
+    3. Scrap Warden's Levy (12) and the 2 Feast Days (13-14).
+    
+    4. Add Skirmishers (15) and Sworn Guardians (16) to the Court deck.
 
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+        [![Skirmishers](16/piece_0_4.jpg){ width="33%" }](16/piece_0_4.jpg){ data-lightbox="1" } [![Sworn Guardians](16/piece_0_3.jpg){ width="33%" }](16/piece_0_3.jpg){ data-lightbox="1" }
 
 ## Act III
 
-### Setup
+[![Setup](16/piece_0_2.jpg){ width="33%" }](16/piece_0_2.jpg){ data-lightbox="1" }[![Objective](16/back_0_2.jpg){ width="33%" }](16/back_0_2.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Collect the 6 Court tokens in the general supply near the Court. *(They are labeled 1st through 6th)*
+    
+    2. Add Feudal Courts (18) and Lords Gain Power (19) to the rules booklet. **Explain them to everyone.**
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Feudal Courts](16/piece_0_1.jpg){ width="33%" }](16/piece_0_1.jpg){ data-lightbox="1" } [![Lords Gain Power](16/piece_0_0.jpg){ width="33%" }](16/piece_0_0.jpg){ data-lightbox="1" }

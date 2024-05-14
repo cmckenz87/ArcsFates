@@ -1,69 +1,59 @@
 ---
-weight: 3
+weight: 11
+title: 11. Planet Breaker
 ---
-
-# 11. Planet Breker
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Planet Breaker
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Planet Breaker](11/Fate11.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](11/piece_1_4.jpg){ width="33%" }](11/piece_1_4.jpg){ data-lightbox="1" }[![Objective](11/back_1_4.jpg){ width="33%" }](11/back_1_4.jpg){ data-lightbox="1" }[![Resolution](11/piece_0_2.jpg){ width="33%px" }](11/piece_0_2.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. **You gain a Flagship** --take a Flagship board and set it up as describe on the board back.
+    
+    2. Place 1 fresh starport on your Slipstream Drive Upgrade.
+    
+    3. Gain Sycophants (02).
+    
+        [![Sycophants](11/piece_1_3.jpg){ width="33%" }](11/piece_1_3.jpg){ data-lightbox="1" }
+    
+    4. Gain the Hammer Fragments card (03).
+    
+        [![Hammer Fragments](11/piece_1_2.jpg){ width="33%" }](11/piece_1_2.jpg){ data-lightbox="1" } [![Breaking Worlds](11/back_1_2.jpg){ width="33%" }](11/back_1_2.jpg){ data-lightbox="1" }
+    
+    5. Tuck the Planet Hammer (04) and the 5 Refugees card (05-09) under the Hammer Fragments card.
+    
+        [![Planet Hammer](11/piece_1_1.jpg){ width="33%" }](11/piece_1_1.jpg){ data-lightbox="1" } [![Forgeworld Refugees](11/piece_1_0.jpg){ width="33%" }](11/piece_1_0.jpg){ data-lightbox="1" } [![Blazeworld Refugees](11/piece_0_6.jpg){ width="33%" }](11/piece_0_6.jpg){ data-lightbox="1" } [![Deadworld Refugees](11/piece_0_5.jpg){ width="33%" }](11/piece_0_5.jpg){ data-lightbox="1" } [![Lostworld Refugees](11/piece_0_4.jpg){ width="33%" }](11/piece_0_4.jpg){ data-lightbox="1" } [![Heartworld Refugees](11/piece_0_3.jpg){ width="33%" }](11/piece_0_3.jpg){ data-lightbox="1" }
+    
+    6. Collect the 6 Hammer Fragments tokens.
+    
+    7. Roll the event die. Place 1 Hammer Fragment token on each planet of the rolled symbol.    
 
-### Objective
+??? success "If successful"
+    1. Scrap Planet-Eater Loose (11).
+    
+    2. Record all pieces that are on your Breaking Worlds card (03). *(They stay on it in Act III.)*
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
-
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+??? failure "If failed"
+    1. Add Planet-Eater Loose (11) to the Court deck.
+    
+        [![Planet-Eater Loose](11/piece_0_1.jpg){ width="33%" }](11/piece_0_1.jpg){ data-lightbox="1" }
+    
+    2. Resolve the text under "If you have all 6 Hammer Fragments" on the Hammer Fragments card (03) if you haven't already.
+    
+    3. Place the Breaking the Worlds card (03) and 6 Broken Worlds tokens in the supply. *(They are used by the Planet-Eater Loose card in Act III.)*
+    
+    4. Scrap your Planet Hammer (04).
 
 ## Act III
 
-### Setup
+[![Setup](11/piece_0_0.jpg){ width="33%" }](11/piece_0_0.jpg){ data-lightbox="1" }[![Objective](11/back_0_0.jpg){ width="33%" }](11/back_0_0.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
-
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
-
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+??? info "Setup details"
+    1. Place pieces that were on your breaking Worlds card in Act II back on your Breaking Worlds card (03).
+    
+    2. **Remind everyone that placing a Broken World token on a planet will Provoke Outrage for all players of that planet type.**

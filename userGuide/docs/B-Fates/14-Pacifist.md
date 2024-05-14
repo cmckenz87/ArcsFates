@@ -1,69 +1,57 @@
 ---
-weight: 6
+weight: 14
+title: 14. Pacifist
 ---
-
-# 14. Partisan
-
-!!! warning "Under construction"
-
-    Work in progress
-
+#Pacifist
 ## Overview
 <figure markdown="span">
-![Steward](1/Fate1.jpg)
+![Pacifist](14/Fate14.jpg){ width="300" }
 </figure>
 
 ## Act II
 
-### Setup
+[![Setup](14/piece_1_4.jpg){ width="33%" }](14/piece_1_4.jpg){ data-lightbox="1" }[![Objective](14/back_1_4.jpg){ width="33%" }](14/back_1_4.jpg){ data-lightbox="1" }[![Resolution](14/piece_1_1.jpg){ width="33%px" }](14/piece_1_1.jpg){ data-lightbox="1" }
 
-1. Add this card to the Edicts:
-   
-    ![Imperial Quorum](1/piece_1_6.jpg)
+??? info "Setup details"
+    1. Clear all of your Outrage.
+    
+    2. Gain the Witnesses (02) and Well of Empathy (03) cards.
+    
+        [![Witnesses](14/piece_1_3.jpg){ width="33%" }](14/piece_1_3.jpg){ data-lightbox="1" } [![Well of Empathy](14/piece_1_2.jpg){ width="33%" }](14/piece_1_2.jpg){ data-lightbox="1" }
+    
+    3. Collect the 4 Witness tokens. Place 1 Witness on their spyglass side at each Weapon planet.
+    
+    4. **Replenish your fleet** - if you have fewer than **8 Loyal ships** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
 
-### Objective
+??? success "If successful"
+    1. Scrap your Witnesses card (02).
+    
+    2. Scrap the Psionic Liaisons (05) and 2 Itenerant Empaths (06-07).
+    
+    3. Flip any Witnesses on the map to Psionic and add them to the resource supply.
 
-|2 players|3 players|4 players|
-|--|--|--|
-|22|22|22|
-
-**Expand the Empire**
-
-At the end of each chapter, if you're the First Regent, **advance 1** for each cluster where the Empire controls any systems.
-
-**Ensure the Emperor's Tribute**
-
-At the end of each chapter, **advance 1** for each resource in the First Regent's Imperial Trust.
-
-#### If completed
-1. Add these cards to the Court deck:
-   
-    ![Navy Reprisal](1/piece_1_4.jpg) ![Council Insiders](1/piece_1_3.jpg) ![Galactic Bards](1/piece_1_2.jpg)
-
-#### If failed
-
-1. Add these cards to the Court deck:
-   
-    ![Imperial Defector](1/piece_1_1.jpg) ![Imperial Defector](1/piece_1_0.jpg) ![Lesser Regent](1/piece_0_6.jpg) ![Lesser Regent](1/piece_0_5.jpg)
+??? failure "If failed"
+    1. Scrap your Witnesses card (02).
+    
+    2. Add the Psionic Liaisons (05) and 2 Itenerant Empaths (06-07) to the Court deck.
+    
+        [![Psionic Liaisons](14/piece_1_0.jpg){ width="33%" }](14/piece_1_0.jpg){ data-lightbox="1" } [![Itenerant Empath](14/piece_0_6.jpg){ width="33%" }](14/piece_0_6.jpg){ data-lightbox="1" } [![Itenerant Empath](14/piece_0_5.jpg){ width="33%" }](14/piece_0_5.jpg){ data-lightbox="1" }
+    
+    3. Scrap all Witness tokens on the map.
 
 ## Act III
 
-### Setup
+[![Setup](14/piece_0_4.jpg){ width="33%" }](14/piece_0_4.jpg){ data-lightbox="1" }[![Objective](14/back_0_4.jpg){ width="33%" }](14/back_0_4.jpg){ data-lightbox="1" }
 
-1. Add this cards to the rules booklet:
-   
-    ![Imperial Sponsor](1/piece_0_3.jpg)
+??? info "Setup details"
+    1. Add Empathy for All to the rules booklet (13). **Explain it to everyone.**
+    
+        [![Empathy for All](14/piece_0_3.jpg){ width="33%" }](14/piece_0_3.jpg){ data-lightbox="1" }
+    
+    2. As a reminder, tuck the second copy of Empathy for All (14) into the card play area of the map.
+    
+        [![Empathy for All](14/piece_0_2.jpg){ width="33%" }](14/piece_0_2.jpg){ data-lightbox="1" }
 
-2. Place the Sponsored token on the First Regent tile.
-3. Scrap the 3 Govern the Imperial Reach cards from the Edicts and add these 3 cards to it:
+    3. Add Reconcile with the Outraged (14) and Rebuke of the Empaths (15) to the rules booklet. **Explain them to everyone.**
 
-    ![Govern With Authority](1/piece_0_2.jpg) ![Govern With Authority](1/piece_0_1.jpg) ![Govern With Authority](1/piece_0_0.jpg)
-
-4. The First Regent chooses which Govern with Authority card to place on top of the stack.
-
-### Objective (Grand Ambition)
-
-**Entrench the Empire in the Reach**
-
-- You're a Regent and the Empire controls all Outlaw cities or there are no Outlaws.
-- You're the First Regent and the Imperial Trust has more resources than the current Chapter.
+        [![Reconcile with the Outraged](14/piece_0_1.jpg){ width="33%" }](14/piece_0_1.jpg){ data-lightbox="1" } [![Rebuke of the Empaths](14/piece_0_0.jpg){ width="33%" }](14/piece_0_0.jpg){ data-lightbox="1" }
