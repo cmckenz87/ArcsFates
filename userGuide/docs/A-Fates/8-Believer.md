@@ -36,6 +36,8 @@ title: 8. Believer
     
     3. Scrap your Spreading the Faith (03), The Prodigal One (18), and Secret Order (19).
 
+    4. Add all Faithful action cards left in their stack to the Court deck.
+
 ??? failure "If failed"
     1. Scrap your Spreading the Faith (03), The Young Light (16), and Plot to Kidnap (17).
     
