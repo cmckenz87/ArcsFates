@@ -56,7 +56,7 @@ title: 5. Caretaker
     
         [![Knowledge Set Free](5/piece_1_0.jpg){ width="150" }](5/piece_1_0.jpg){ data-lightbox="1" }
 
-    3. Shuffle the extra Event card (15) into the action deck. **Mention this to everyone.** *(This card does not list its card number.)
+    3. Shuffle the extra Event card (15) into the action deck. **Mention this to everyone.** *(This card does not list its card number.)*
     
         [![Event](5/piece_0_6.jpg){ width="150" }](5/piece_0_6.jpg){ data-lightbox="1" }
 
