@@ -21,6 +21,8 @@ title: 12. Pirate
 
         [![Pirate Hoard](12/piece_1_3.jpg){ width="33%" }](12/piece_1_3.jpg){ data-lightbox="1" } [![Pirate Fleet](12/piece_1_2.jpg){ width="33%" }](12/piece_1_2.jpg){ data-lightbox="1" }
 
+    4. **Replenish your fleet** - if you have fewer than **8 Loyal ships** on the map, place 1 ship each in any systems until you have 8 Loyal ships on the map.
+
 ??? success "If successful"
     1. Gain Pirate Smugglers (05).
     
