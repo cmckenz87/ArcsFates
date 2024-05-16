@@ -14,10 +14,10 @@ title: 12. Pirate
 
 ??? info "Setup details"
     1. **You gain a Flagship** --take a Flagship board and set it up as describe on the board back.
-    2. 
-    3. Place 1 fresh starport each on your Tractor Beam and Defense Array Upgrades.
-    4. 
-    5. Gain the Pirate Hoard (02) and Pirate Fleet (03).
+   
+    2. Place 1 fresh starport each on your Tractor Beam and Defense Array Upgrades.
+   
+    3. Gain the Pirate Hoard (02) and Pirate Fleet (03).
 
         [![Pirate Hoard](12/piece_1_3.jpg){ width="33%" }](12/piece_1_3.jpg){ data-lightbox="1" } [![Pirate Fleet](12/piece_1_2.jpg){ width="33%" }](12/piece_1_2.jpg){ data-lightbox="1" }
 
