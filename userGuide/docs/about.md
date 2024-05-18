@@ -24,4 +24,5 @@ As and when official FAQ and Errata are published, the rulings here will be upda
 
 ## Recent Updates
 
+May 18, 2024: Fixed missing/incorrect images on Judge page
 May 17, 2024: Added Books / Aids, Misc campaign cards, and "About" page (you are here right now!)
