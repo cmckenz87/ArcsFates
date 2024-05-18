@@ -5,26 +5,30 @@ hide:
 
 # Contents
 
-### Leaders, Lore, and Court
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: baseline;">
     <div style="text-align:center">
-        <a href="Base/0-Leader.html"><img src="images/leader-back.jpg" alt="First Image" width ="100px">
+        <a href="rulebooks.html"><img src="images/rules/baserules.png" alt="First Image" width ="100px">
+        <p style="text-align: center;">Books/Aids</p></a>
+    </div>
+    <div style="text-align:center">
+        <a href="Base/0-Leader.html"><img src="images/leader-back.jpg" alt="Leaders" width ="100px">
         <p style="text-align: center;">Leaders</p></a>
     </div>
     <div style="text-align:center">
-        <a href="Base/1-Lore.html"><img src="images/lore-back.jpg" alt="Second Image" width ="100px">
+        <a href="Base/1-Lore.html"><img src="images/lore-back.jpg" alt="Lore" width ="100px">
         <p style="text-align: center;">Lore</p></a>
     </div>
     <div style="text-align:center">
-        <a href="Base/2-Court.html"><img src="images/court-back.jpg" alt="Second Image" width ="100px">
-        <p style="text-align: center;">Court
-        (Base Game)</p></a>
+        <a href="Base/2-Court.html"><img src="images/court-back.jpg" alt="Court (Base)" width ="100px">
+        <p style="text-align: center;">Base Court</p></a>
     </div>
     <div style="text-align:center">
-        <a href="Campaign/0-Court.html"><img src="images/court-back.jpg" alt="Second Image" width ="100px">
-        <p style="text-align: center;">Court
-        (Campaign)</p></a>
+        <a href="Campaign/0-Court.html"><img src="images/court-back.jpg" alt="Court (Campaign)" width ="100px">
+        <p style="text-align: center;">Campaign Court</p></a>
+    </div>
+    <div style="text-align:center">
+        <a href="Campaign/0b-Other.html"><img src="Campaign/other/piece_3_1.jpg" alt="Court (Campaign)" width ="100px">
+        <p style="text-align: center;">Campaign Other</p></a>
     </div>
 </div>
 ### A Fates

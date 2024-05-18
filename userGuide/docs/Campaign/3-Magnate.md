@@ -89,6 +89,6 @@ title: 3. Magnate
 
 ## FAQ / Errata
 
-<a name="faq1"></a>
+
 ??? question "Act II resolution refers to card Fuel Interest (CC04) which does not exist."
     (Unofficial ruling) This should refer to Shipping Interest (CC04)
