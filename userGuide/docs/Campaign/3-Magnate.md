@@ -18,8 +18,7 @@ title: 3. Magnate
          [![Merchant League](3/piece_3_4.jpg){ width="150" }](3/piece_3_4.jpg){ data-lightbox="1" }
 
 ??? success "If successful"
-    1. Add the Elder Broker<sup><a href="#faq6">[6]</a></sup>
- (04), Relic Fence (05), and Prison Wardens (06) to the Court deck.
+    1. Add the Elder Broker<sup><a href="#faq6">[6]</a></sup> (04), Relic Fence (05), and Prison Wardens (06) to the Court deck.
       
         [![Elder Broker](3/piece_3_2.jpg){ width="150" }](3/piece_3_2.jpg){ data-lightbox="1" } [![Relic Fence](3/piece_3_1.jpg){ width="150" }](3/piece_3_1.jpg){ data-lightbox="1" } [![Prison Wardens](3/piece_3_0.jpg){ width="150" }](3/piece_3_0.jpg){ data-lightbox="1" }
 
