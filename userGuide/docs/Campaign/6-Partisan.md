@@ -12,6 +12,8 @@ title: 6. Partisan
 
 [![Setup](6/piece_3_3.jpg){ width="33%"}](6/piece_3_3.jpg){ data-lightbox="1" }[![Objective](6/back_3_3.jpg){ width="33%" }](6/back_3_3.jpg){ data-lightbox="1" }[![Resolution](6/piece_3_0.jpg){ width="33%" }](6/piece_3_0.jpg){ data-lightbox="1" }
 
+(Objective)<sup><a href="#faq1">[1]</a></sup>
+
 ??? info "Setup details"
     1. Gain Informants (02) and Partisan Seizing (03).
     
@@ -79,3 +81,8 @@ title: 6. Partisan
     1. Gain Sower of Division (25).
 
         [![Sower of Division](6/piece_0_0.jpg){ width="33%" }](6/piece_0_0.jpg){ data-lightbox="1" }
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Act I Objective - If I pass while not other player has cards, do I advance my objective?"
+    <a id="faq1"></a>No, in this scenario the initiative never passes to another player, so you are not considered to have lost it or gained it. To advance the objective, the initiative must be possessed by another player and then move into your possession.

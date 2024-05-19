@@ -14,7 +14,7 @@ title: 24. Judge
 
 ??? info "Setup details"
     1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
-    2. Gain Vow of Fairness (02), The Arbiter (03), and Judge's Chosen (04).
+    2. Gain Vow of Fairness (02), The Arbiter<sup><a href="#faq1">[1]</a></sup> (03), and Judge's Chosen (04).
         
         [![Vow of Fairness](24/piece_0_3.jpg){ width="33%" }](24/piece_0_3.jpg){ data-lightbox="1" } [![The Arbiter](24/piece_0_2.jpg){ width="33%" }](24/piece_0_2.jpg){ data-lightbox="1" } [![Judge's Chosen](24/piece_0_1.jpg){ width="33%" }](24/piece_0_1.jpg){ data-lightbox="1" }
 
@@ -22,3 +22,7 @@ title: 24. Judge
         
         [![Judge Sets Agenda](24/piece_0_0.jpg){ width="33%" }](24/piece_0_1.jpg){ data-lightbox="1" }
         
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>The Arbiter - Does "up to their number of empty resource slots" limit only the resources you give, or all of the listed components?"
+    <a id="faq1"></a>Only the resources are limited by slots. Other pieces may be given with no limit.

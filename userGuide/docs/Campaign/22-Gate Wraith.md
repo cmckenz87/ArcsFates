@@ -27,10 +27,13 @@ title: 22. Gate Wraith
     
         [![The Dead Live](22/piece_0_2.jpg){ width="33%" }](22/piece_0_2.jpg){ data-lightbox="1" }
     
-    6. Add Passages & The Twisted Passage (05) to the rules booklet. **Explain it to everyone.**
+    6. Add Passages & The Twisted Passage<sup><a href="#faq1">[1]</a></sup> (05) to the rules booklet. **Explain it to everyone.**
     
         [![Passages & The Twisted Passage](22/piece_0_1.jpg){ width="33%" }](22/piece_0_1.jpg){ data-lightbox="1" }
     
     7. Place Passage Storms (06) on top of the Court deck.
 
         [![Passage Storms](22/piece_0_0.jpg){ width="33%" }](22/piece_0_0.jpg){ data-lightbox="1" }
+
+??? question "<sup>[1]</sup>Passages & The Twisted Passage - Is the Twisted Passage adjacent to any other systems when resolving card effects that reference adjacent systems?"
+    <a id="faq1"></a>No. Ships can move to and from the the Twisted Passage as described on the card, but it is not considered adjacent to other systems for any other purpose.

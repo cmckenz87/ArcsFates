@@ -36,3 +36,17 @@ hide:
 [![Song of Freedom](2/piece_4_0.jpg){ width="150" }](2/piece_4_0.jpg){ data-lightbox="1" } 
 [![Guild Struggle](2/piece_4_1.jpg){ width="150" }](2/piece_4_1.jpg){ data-lightbox="1" } 
 [![Call to Action](2/piece_4_2.jpg){ width="150" }](2/piece_4_2.jpg){ data-lightbox="1" } 
+
+## FAQ / Errata
+
+??? question "Material Cartel / Fuel Cartel - How exactly do resources on these cards interact with other effects?"
+    Any effect that considers the number or type of resources currently in your possession will include the resources on your Cartels.
+
+    Effects that would move a resource in any way will only move resources to or from a Cartel as if it were the supply. An effect that would move a resource in your possession cannot be used on a resource in your Cartel.
+
+    Effects that trigger when resources are gained or lost do not consider the resources on Cartel to be in possession of the Cartel's owner. This means that transfering the Cartel card does not cause either party to gain/lose resources. Another player collecting a resource from a Cartel you own does not cause you to lose a resource. Another player spending or returning a resource such that it ends up on your Cartel does not cause you to gain a resource.
+
+    However, if you move a resource from your Cartel to elsewhere in your play area, you are considered to have gained it, and if you move a card from anywhere else in your play area to your Cartel, you are considered to have lost it.
+
+??? question "Elder Broker - Is the Trade effect considered Stealing? Can it be blocked by Sworn Guardian?"
+    No. This effect is not considered stealing.

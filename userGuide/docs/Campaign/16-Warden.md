@@ -58,6 +58,11 @@ title: 16. Warden
 ??? info "Setup details"
     1. Collect the 6 Court tokens in the general supply near the Court. *(They are labeled 1st through 6th)*
     
-    2. Add Feudal Courts (18) and Lords Gain Power (19) to the rules booklet. **Explain them to everyone.**
+    2. Add Feudal Courts<sup><a href="#faq1">[1]</a></sup> (18) and Lords Gain Power (19) to the rules booklet. **Explain them to everyone.**
 
         [![Feudal Courts](16/piece_0_1.jpg){ width="33%" }](16/piece_0_1.jpg){ data-lightbox="1" } [![Lords Gain Power](16/piece_0_0.jpg){ width="33%" }](16/piece_0_0.jpg){ data-lightbox="1" }
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Feudal Courts - What happens to the token if the Court card is won by somebody other than the Lord?"
+    <a id="faq1"></a>The token remains in the Court and applies to the next card that fills that slot.

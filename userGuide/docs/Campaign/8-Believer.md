@@ -13,7 +13,7 @@ title: 8. Believer
 [![Setup](8/piece_4_2.jpg){ width="33%"}](8/piece_4_2.jpg){ data-lightbox="1" }[![Objective](8/back_4_2.jpg){ width="33%" }](8/back_4_2.jpg){ data-lightbox="1" }[![Resolution](8/piece_2_2.jpg){ width="33%" }](8/piece_2_2.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-    1. Gain Faithful Disciples (02) and Spreading the Faith (03).
+    1. Gain Faithful Disciples (02) and Spreading the Faith<sup><a href="#faq1">[1]</a></sup> (03).
     
         [![Faithful Disciples](8/piece_4_1.jpg){ width="33%"}](8/piece_4_1.jpg){ data-lightbox="1" } [![Spreading the Faith](8/piece_4_0.jpg){ width="33%"}](8/piece_4_0.jpg){ data-lightbox="1" }
     
@@ -30,7 +30,7 @@ title: 8. Believer
     
         [![The Young Light](8/piece_2_1.jpg){ width="33%"}](8/piece_2_1.jpg){ data-lightbox="1" }
     
-    2. Add Plot to Kidnap (17) to the Court deck.
+    2. Add Plot to Kidnap<sup><a href="#faq2">[2]</a></sup> (17) to the Court deck.
     
         [![Plot to Kidnap](8/piece_2_0.jpg){ width="33%"}](8/piece_2_0.jpg){ data-lightbox="1" }
     
@@ -100,3 +100,17 @@ title: 8. Believer
         [![Breaking the Faith](8/piece_0_0.jpg){ width="33%"}](8/piece_0_0.jpg){ data-lightbox="1" }
     
     3. Flip the Doctrine (22) to match the Ideal with more markers on ambition boxes. On a tie, flip it to its Wisdom side.
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Spreading the Faith - How is this resolved if there are no Faithful action cards remaining, or no eligible Court card to attach them to?"
+    <a id="faq1"></a>If there are no Faithful action cards in the stack, this ability cannot be triggered. If there are no Court cards which completely satisfy the criteria and have no existing attachment, this ability cannot be triggered. 
+    
+    If the ability is triggered, and no card is scrapped from the discard pile, do not resolve the rest of the effects. (The action is not refunded).
+
+    Basically, there should be no circumstance in which a card is scrapped without adding a Faithful action to court, or vice versa.
+
+??? question "<sup>[2]</sup>Plot to Kidnap - Must I reveal the card taken? What if there is no Faithful action card?"
+    <a id="faq2"></a>You are not required to show any of the cards, including the card you took. Other players can't know for sure that you took the correct card, so this is on the honor system.
+
+    If there is no Faithful action card, do not take any card. This is still discarded.

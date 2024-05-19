@@ -50,8 +50,13 @@ title: 12. Pirate
     
     2. Place the 2 True Rumor and 2 False Rumor tokens each **face down** on a different planet. You may peek at them. *(Read below for details.)*
     
-    3. Add Rumors of the Haven (11) and Sharing Rumors (12) to the rules booklet. **Explain them to everyone.**
+    3. Add Rumors of the Haven (11) and Sharing Rumors<sup><a href="#faq1">[1]</a></sup> (12) to the rules booklet. **Explain them to everyone.**
 
         [![Rumors of the Haven](12/piece_0_1.jpg){ width="33%" }](12/piece_0_1.jpg){ data-lightbox="1" } [![Sharing Rumors](12/piece_0_0.jpg){ width="33%" }](12/piece_0_0.jpg){ data-lightbox="1" }
 
     *The True Rumors show the cluster and ID symbol of the Pirate Haven, which you must hide. For example, placing the "Cluster Correct" Rumor on a planet in cluster 5 and the "Symbol Correct" Rumor on a triangle planet in cluster 2 means the Haven is secret at the 5-triangle planet.*
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Sharing Rumors - Does the Agent placed by this card count as a Loyal piece?"
+    <a id="faq1"></a>Yes. This means the Agent's presence enables its owner to build, and it also means the Pirate cannot declare that there are no Rival pieces in the system.

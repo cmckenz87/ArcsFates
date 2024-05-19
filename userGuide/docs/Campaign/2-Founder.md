@@ -22,7 +22,7 @@ title: 2. Founder
       
         [![Book of Liberation](2/piece_3_2.jpg){ width="150" }](2/piece_3_2.jpg){ data-lightbox="1" }
 
-    2. Add the 3 Political Intrigue cards (05-07) to the Court deck.
+    2. Add the 3 Political Intrigue cards<sup><a href="#faq1">[1]</a></sup> (05-07) to the Court deck.
       
         [![Political Intrigue](2/piece_3_1.jpg){ width="150" }](2/piece_3_1.jpg){ data-lightbox="1" } [![Political Intrigue](2/piece_3_0.jpg){ width="150" }](2/piece_3_0.jpg){ data-lightbox="1" } [![Political Intrigue](2/piece_2_6.jpg){ width="150" }](2/piece_2_6.jpg){ data-lightbox="1" }
 
@@ -40,13 +40,13 @@ title: 2. Founder
 [![Setup](2/piece_2_1.jpg){ width="33%" }](2/piece_2_1.jpg){ data-lightbox="1" }[![Objective](2/back_2_1.jpg){ width="33%" }](2/back_2_1.jpg){ data-lightbox="1" }[![Resolution](2/piece_0_4.jpg){ width="33%px" }](2/piece_0_4.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-     1. Gain the Found of the Commonwealth card (13).
+     1. Gain the Founder of the Commonwealth card (13).
     
         [![Founder of the Commonwealth](2/piece_2_0.jpg){ width="150" }](2/piece_2_0.jpg){ data-lightbox="1" }
 
      2. Place the Commonwealth Ambition marker on your Fate card.
 
-     3. Place the Commonwealth Ambition (14) and Call for Armistice edict (15) to the rules booklet.
+     3. Place the Commonwealth Ambition<sup><a href="#faq2">[2]</a></sup><sup><a href="#faq3">[3]</a></sup> (14) and Call for Armistice edict (15) to the rules booklet.
 
         [![Commonwealth Ambition](2/piece_1_6.jpg){ width="150" }](2/piece_1_6.jpg){ data-lightbox="1" } [![Call for Armistice](2/piece_1_5.jpg){ width="150" }](2/piece_1_5.jpg){ data-lightbox="1" }
 
@@ -54,11 +54,11 @@ title: 2. Founder
 
         [![Armistice](2/piece_1_4.jpg){ width="150" }](2/piece_1_4.jpg){ data-lightbox="1" } [![Armistice](2/piece_1_3.jpg){ width="150" }](2/piece_1_3.jpg){ data-lightbox="1" }
 
-     5. Give a Member of the Commonwealtitle card (18-21) to each player, including you.
+     5. Give a Member of the Commonwealth title card (18-21) to each player, including you.
 
         [![Member of the Commonwealth](2/piece_1_2.jpg){ width="150" }](2/piece_1_2.jpg){ data-lightbox="1" } [![Member of the Commonwealth](2/piece_1_1.jpg){ width="150" }](2/piece_1_1.jpg){ data-lightbox="1" } [![Member of the Commonwealth](2/piece_1_0.jpg){ width="150" }](2/piece_1_0.jpg){ data-lightbox="1" } [![Member of the Commonwealth](2/piece_0_6.jpg){ width="150" }](2/piece_0_6.jpg){ data-lightbox="1" }
 
-    6. Add Commonwealth Membership (22) to the rules booklet. **Explain it to everyone.**
+    6. Add Commonwealth Membership<sup><a href="#faq4">[4]</a></sup> (22) to the rules booklet. **Explain it to everyone.**
 
         [![Commonwealth Membership](2/piece_0_5.jpg){ width="150" }](2/piece_0_5.jpg){ data-lightbox="1" }
 
@@ -95,5 +95,14 @@ title: 2. Founder
 
 ## FAQ / Errata
 
-??? question "Does the Commonwealth Ambition token ever get moved after it is placed on an ambition?"
-    (Unofficial ruling) Return it to the Fate card after the ambition is scored or undeclared, or when the Act ends. From here it can be placed again. *Nothing in the cards tells you to do this, but there are too many holes and ambiguities if you don't move it.*
+??? question "<sup>[1]</sup>Political Intrigue - In a two player game, does the Crisis affect cause the players to give two favors to each other if a moon is rolled?"
+    <a id="faq1"></a>Yes. The opponent player is both to your left and to your right.
+
+??? question "<sup>[2]</sup>Commonwealth Ambition - Does the Commonwealth Ambition token ever get moved after it is placed on an ambition?"
+    <a id="faq2"></a>At any time, if the Commonwealth Ambition token is not accompanied by at least one Ambition Token, return it to Founder of the Commonwealth's Fate card. Also do this during Act III setup.
+
+??? question "<sup>[3]</sup>Commonwealth Ambition - Does the Commonwealth Ambition token count as an Ambition token for the purpose of other effects?"
+    <a id="faq3"></a>No, despite its name, the Commonwealth Ambition token is not an Ambition token and is only altered by effects that specifically refer to it.
+
+??? question "<sup>[4]</sup>Commonwealth Membership - Are Members allowed to treat Free buildings as Loyal when resolving effects such as planting Hegemon banners?"
+    <a id="faq4"></a>No, the list of privileges on the card should be considered the whole of what you can do. Free buildings are only considered loyal for the purpose of Tax, Build, and Repair actions.

@@ -21,7 +21,7 @@ title: 10. Hegemon
     
     4. Scrap any 4 Loyal ships.
     
-    5. Gain the Planting Banners (02). Collect the 8 Banner tokens.
+    5. Gain the Planting Banners<sup><a href="#faq1">[1]</a></sup> (02). Collect the 8 Banner tokens.
     
         [![Planting Banners](10/piece_1_3.jpg){ width="33%" }](10/piece_1_3.jpg){ data-lightbox="1" }
     
@@ -61,3 +61,8 @@ title: 10. Hegemon
     1. Gain the Happy Hosts card (12).
 
         [![Happy Hosts](10/piece_0_0.jpg){ width="33%" }](10/piece_0_0.jpg){ data-lightbox="1" }
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Planting Banners - Does a Survivalist Bunker count as a Rival building for resolving this effect?"
+    <a id="faq1"></a>Yes. For consistency, Bunkers and Banners count as buildings for all purposes except that they do occupy take a slot.

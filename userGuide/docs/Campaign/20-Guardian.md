@@ -21,10 +21,15 @@ title: 20. Guardian
     
     4. Place the Edenguard Ambition tile by the Tycoon ambition box.
    
-    5. Green Green Vault (02) and Ire of the Tycoons (03)
+    5. Green Green Vault<sup><a href="#faq1">[1]</a></sup> (02) and Ire of the Tycoons (03)
     
         [![Green Vault](20/piece_0_2.jpg){ width="33%" }](20/piece_0_2.jpg){ data-lightbox="1" } [![Ire of the Tycoons](20/piece_0_1.jpg){ width="33%" }](20/piece_0_1.jpg){ data-lightbox="1" }
     
     6. Add the Edenguard Ambition (04) to the rules booklet. **Explain it to everyone.**
 
         [![Edenguard Ambition](20/piece_0_0.jpg){ width="33%" }](20/piece_0_0.jpg){ data-lightbox="1" }
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Green Vault - What happens if this card is transfered to another player or removed from play?"
+    <a id="faq1"></a>While you do not possess this card, Materials and Fuel in your Captives box still function as Captives, but they are no longer Frozen. This means you can spend them, transfer them in a Summit, etc.

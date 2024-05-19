@@ -52,7 +52,7 @@ title: 9. Pathfinder
 [![Setup](9/piece_0_4.jpg){ width="33%" }](9/piece_0_4.jpg){ data-lightbox="1" }[![Objective](9/back_0_4.jpg){ width="33%" }](9/back_0_4.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-    1. Gain the Pilgrims card (08).
+    1. Gain the Pilgrims card<sup><a href="#faq1">[1]</a></sup> (08).
 
         [![Pilgrims](9/piece_0_3.jpg){ width="33%" }](9/piece_0_3.jpg){ data-lightbox="1" }
     
@@ -65,3 +65,8 @@ title: 9. Pathfinder
         [![Seek the Portal](9/piece_0_1.jpg){ width="33%" }](9/piece_0_1.jpg){ data-lightbox="1" } [![Seek the Portal](9/piece_0_0.jpg){ width="33%" }](9/piece_0_0.jpg){ data-lightbox="1" }
     
     4. Collect the 6 Pilgrim tokens. Roll the event die and place 1 Pilgrim token at each planet of the rolled symbol.
+
+## FAQ / Errata
+
+??? question "<sup>[1]</sup>Pilgrims - Does the prelude action require all Pilgrims to move into the same system?"
+    <a id="faq1"></a>No. While a strict reading of the card may lead to this interpretation, it is intended that each Pilgrim can independently move into any system. Otherwise, the word "once" would be unnecessary.
