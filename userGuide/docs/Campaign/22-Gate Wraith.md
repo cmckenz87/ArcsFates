@@ -35,5 +35,7 @@ title: 22. Gate Wraith
 
         [![Passage Storms](22/piece_0_0.jpg){ width="33%" }](22/piece_0_0.jpg){ data-lightbox="1" }
 
+## FAQ / Errata
+
 ??? question "<sup>[1]</sup>Passages & The Twisted Passage - Is the Twisted Passage adjacent to any other systems when resolving card effects that reference adjacent systems?"
     <a id="faq1"></a>No. Ships can move to and from the the Twisted Passage as described on the card, but it is not considered adjacent to other systems for any other purpose.
