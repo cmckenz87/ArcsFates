@@ -61,7 +61,7 @@ title: 11. Planet Breaker
 ## FAQ / Errata
 
 ??? question "<sup>[1]</sup>Breaking Worlds (Hammer Fragments) - How does this effect interact with Hegemon banner and Survivalist bunkers?"
-    <a id="faq1"></a>For consistency, Banners and Bunkers should be considered buildings for all purposes, except that they do not take a building slot. This means that Breaking Worlds will harm those buildings, move them its card, and count them for Planet Breaker's objectives.
+    <a id="faq1"></a>Banners and Bunkers are affected by this ability just as any other buildings would be, since this is explicitly a Harm effect.
 
     Banners and Bunkers can still be placed on Broken Worlds, since they do not require slots.
 

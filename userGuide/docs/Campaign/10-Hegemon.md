@@ -65,4 +65,4 @@ title: 10. Hegemon
 ## FAQ / Errata
 
 ??? question "<sup>[1]</sup>Planting Banners - Does a Survivalist Bunker count as a Rival building for resolving this effect?"
-    <a id="faq1"></a>Yes. For consistency, Bunkers and Banners count as buildings for all purposes except that they do occupy take a slot.
+    <a id="faq1"></a>No. You can plant a banner even if a rival Bunker is on the planet, as it only counts as a building for effects which Harm.
