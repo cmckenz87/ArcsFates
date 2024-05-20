@@ -19,15 +19,15 @@ title: 11. Planet Breaker
     
     3. Gain Sycophants (02).
     
-        [![Sycophants](11/piece_1_3.jpg){ width="33%" }](11/piece_1_3.jpg){ data-lightbox="1" }
+        [![Sycophants](11/piece_1_3.jpg){ width="150" }](11/piece_1_3.jpg){ data-lightbox="1" }
     
     4. Gain the Hammer Fragments<sup><a href="#faq1">[1]</a></sup> card (03).
     
-        [![Hammer Fragments](11/piece_1_2.jpg){ width="33%" }](11/piece_1_2.jpg){ data-lightbox="1" } [![Breaking Worlds](11/back_1_2.jpg){ width="33%" }](11/back_1_2.jpg){ data-lightbox="1" }
+        [![Hammer Fragments](11/piece_1_2.jpg){ width="150" }](11/piece_1_2.jpg){ data-lightbox="1" } [![Breaking Worlds](11/back_1_2.jpg){ width="150" }](11/back_1_2.jpg){ data-lightbox="1" }
     
     5. Tuck the Planet Hammer (04) and the 5 Refugees card (05-09) under the Hammer Fragments card.
     
-        [![Planet Hammer](11/piece_1_1.jpg){ width="33%" }](11/piece_1_1.jpg){ data-lightbox="1" } [![Forgeworld Refugees](11/piece_1_0.jpg){ width="33%" }](11/piece_1_0.jpg){ data-lightbox="1" } [![Blazeworld Refugees](11/piece_0_6.jpg){ width="33%" }](11/piece_0_6.jpg){ data-lightbox="1" } [![Deadworld Refugees](11/piece_0_5.jpg){ width="33%" }](11/piece_0_5.jpg){ data-lightbox="1" } [![Lostworld Refugees](11/piece_0_4.jpg){ width="33%" }](11/piece_0_4.jpg){ data-lightbox="1" } [![Heartworld Refugees](11/piece_0_3.jpg){ width="33%" }](11/piece_0_3.jpg){ data-lightbox="1" }
+        [![Planet Hammer](11/piece_1_1.jpg){ width="150" }](11/piece_1_1.jpg){ data-lightbox="1" } [![Forgeworld Refugees](11/piece_1_0.jpg){ width="150" }](11/piece_1_0.jpg){ data-lightbox="1" } [![Blazeworld Refugees](11/piece_0_6.jpg){ width="150" }](11/piece_0_6.jpg){ data-lightbox="1" } [![Deadworld Refugees](11/piece_0_5.jpg){ width="150" }](11/piece_0_5.jpg){ data-lightbox="1" } [![Lostworld Refugees](11/piece_0_4.jpg){ width="150" }](11/piece_0_4.jpg){ data-lightbox="1" } [![Heartworld Refugees](11/piece_0_3.jpg){ width="150" }](11/piece_0_3.jpg){ data-lightbox="1" }
     
     6. Collect the 6 Hammer Fragments tokens.
     
@@ -41,7 +41,7 @@ title: 11. Planet Breaker
 ??? failure "If failed"
     1. Add Planet-Eater Loose (11) to the Court deck.
     
-        [![Planet-Eater Loose](11/piece_0_1.jpg){ width="33%" }](11/piece_0_1.jpg){ data-lightbox="1" }
+        [![Planet-Eater Loose](11/piece_0_1.jpg){ width="150" }](11/piece_0_1.jpg){ data-lightbox="1" }
     
     2. Resolve the text under "If you have all 6 Hammer Fragments" on the Hammer Fragments card (03) if you haven't already.
     

@@ -23,24 +23,24 @@ title: 10. Hegemon
     
     5. Gain the Planting Banners<sup><a href="#faq1">[1]</a></sup> (02). Collect the 8 Banner tokens.
     
-        [![Planting Banners](10/piece_1_3.jpg){ width="33%" }](10/piece_1_3.jpg){ data-lightbox="1" }
+        [![Planting Banners](10/piece_1_3.jpg){ width="150" }](10/piece_1_3.jpg){ data-lightbox="1" }
     
     6. Add the Banners of Hegemony card (03) to the rules booklet. **Explain it to everyone.**
     
-        [![Banners of Hegemony](10/piece_1_2.jpg){ width="33%" }](10/piece_1_2.jpg){ data-lightbox="1" }
+        [![Banners of Hegemony](10/piece_1_2.jpg){ width="150" }](10/piece_1_2.jpg){ data-lightbox="1" }
     
     7. Gain Song of the Banner (04).
 
-        [![Song of the Banner](10/piece_1_1.jpg){ width="33%" }](10/piece_1_1.jpg){ data-lightbox="1" }
+        [![Song of the Banner](10/piece_1_1.jpg){ width="150" }](10/piece_1_1.jpg){ data-lightbox="1" }
 
 ??? success "If successful"
     1. Gain Mind Managers (06).
     
-        [![Mind Managers](10/piece_0_6.jpg){ width="33%" }](10/piece_0_6.jpg){ data-lightbox="1" }
+        [![Mind Managers](10/piece_0_6.jpg){ width="150" }](10/piece_0_6.jpg){ data-lightbox="1" }
     
     2. Add 2 Prison Wardens (07-08) to the Court deck.
     
-        [![Prison Wardens](10/piece_0_5.jpg){ width="33%" }](10/piece_0_5.jpg){ data-lightbox="1" } [![Prison Wardens](10/piece_0_4.jpg){ width="33%" }](10/piece_0_4.jpg){ data-lightbox="1" }
+        [![Prison Wardens](10/piece_0_5.jpg){ width="150" }](10/piece_0_5.jpg){ data-lightbox="1" } [![Prison Wardens](10/piece_0_4.jpg){ width="150" }](10/piece_0_4.jpg){ data-lightbox="1" }
     
     3. Scrap the 2 Against the Hegemony cards (09-10).
 
@@ -49,7 +49,7 @@ title: 10. Hegemon
     
     2. Add 2 Prison Wardens (07-08) and 2 Against Hegemony (09-10) to the Court deck.
     
-        [![Prison Wardens](10/piece_0_5.jpg){ width="33%" }](10/piece_0_5.jpg){ data-lightbox="1" } [![Prison Wardens](10/piece_0_4.jpg){ width="33%" }](10/piece_0_4.jpg){ data-lightbox="1" } [![Against Hegemony](10/piece_0_3.jpg){ width="33%" }](10/piece_0_3.jpg){ data-lightbox="1" } [![Against Hegemony](10/piece_0_2.jpg){ width="33%" }](10/piece_0_2.jpg){ data-lightbox="1" }
+        [![Prison Wardens](10/piece_0_5.jpg){ width="150" }](10/piece_0_5.jpg){ data-lightbox="1" } [![Prison Wardens](10/piece_0_4.jpg){ width="150" }](10/piece_0_4.jpg){ data-lightbox="1" } [![Against Hegemony](10/piece_0_3.jpg){ width="150" }](10/piece_0_3.jpg){ data-lightbox="1" } [![Against Hegemony](10/piece_0_2.jpg){ width="150" }](10/piece_0_2.jpg){ data-lightbox="1" }
     
     3. Scrap all Banner tokens that are not on the map.
 
@@ -60,7 +60,7 @@ title: 10. Hegemon
 ??? info "Setup details"
     1. Gain the Happy Hosts card (12).
 
-        [![Happy Hosts](10/piece_0_0.jpg){ width="33%" }](10/piece_0_0.jpg){ data-lightbox="1" }
+        [![Happy Hosts](10/piece_0_0.jpg){ width="150" }](10/piece_0_0.jpg){ data-lightbox="1" }
 
 ## FAQ / Errata
 

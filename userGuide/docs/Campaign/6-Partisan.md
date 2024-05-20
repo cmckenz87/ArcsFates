@@ -41,27 +41,27 @@ title: 6. Partisan
 
 ## Act II
 
-[![Setup](6/piece_1_3.jpg){ width="33%" }](6/piece_1_3.jpg){ data-lightbox="1" }[![Objective](6/back_1_3.jpg){ width="33%" }](6/back_1_3.jpg){ data-lightbox="1" }[![Resolution](6/piece_1_0.jpg){ width="33%px" }](6/piece_1_0.jpg){ data-lightbox="1" }
+[![Setup](6/piece_1_3.jpg){ width="33%" }](6/piece_1_3.jpg){ data-lightbox="1" }[![Objective](6/back_1_3.jpg){ width="33%" }](6/back_1_3.jpg){ data-lightbox="1" }[![Resolution](6/piece_1_0.jpg){ width="33%" }](6/piece_1_0.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
     1. Add Partisan Seizing (16) to the rules booklet. **Explain it to everyone.**
         
-        [![Partisan Seizing](6/piece_1_2.jpg){ width="33%" }](6/piece_1_2.jpg){ data-lightbox="1" }
+        [![Partisan Seizing](6/piece_1_2.jpg){ width="150" }](6/piece_1_2.jpg){ data-lightbox="1" }
 
     2. As a reminder, tuck your copy of Partisan Seizing (04) under the map near the card play area, so only its title shows. *(Partisan Seizing was gained during Act I's Setup.)*
     
     3. Gain People's Hero (17).
 
-        [![Guilds Decry Terror](6/piece_1_1.jpg){ width="33%" }](6/piece_1_1.jpg){ data-lightbox="1" }
+        [![Guilds Decry Terror](6/piece_1_1.jpg){ width="150" }](6/piece_1_1.jpg){ data-lightbox="1" }
 
 ??? success "If successful"
-    1. Add Guilds Decry Terror (19) to the rules booklet.
+    1. Add Guilds Decry Terror<sup><a href="#faq2">[2]</a></sup> (19) to the rules booklet.
     
-        [![Guilds Decry Terror](6/piece_0_6.jpg){ width="33%" }](6/piece_0_6.jpg){ data-lightbox="1" }    
+        [![Guilds Decry Terror](6/piece_0_6.jpg){ width="150" }](6/piece_0_6.jpg){ data-lightbox="1" }    
     
     2. Add 2 Terror Strikes (20-21) to the Court deck.
 
-        [![Terror Strikes](6/piece_0_5.jpg){ width="33%" }](6/piece_0_5.jpg){ data-lightbox="1" } [![Terror Strikes](6/piece_0_4.jpg){ width="33%" }](6/piece_0_4.jpg){ data-lightbox="1" }    
+        [![Terror Strikes](6/piece_0_5.jpg){ width="150" }](6/piece_0_5.jpg){ data-lightbox="1" } [![Terror Strikes](6/piece_0_4.jpg){ width="150" }](6/piece_0_4.jpg){ data-lightbox="1" }    
     
     3. Scrap the Spacing Union (22) and Arms Union (23).
 
@@ -70,7 +70,7 @@ title: 6. Partisan
     
     2. Add Spacing Union (22) and Arms Union (23) to the Court deck.
 
-        [![Spacing Union](6/piece_0_3.jpg){ width="33%" }](6/piece_0_3.jpg){ data-lightbox="1" } [![Arms Union](6/piece_0_2.jpg){ width="33%" }](6/piece_0_2.jpg){ data-lightbox="1" }   
+        [![Spacing Union](6/piece_0_3.jpg){ width="150" }](6/piece_0_3.jpg){ data-lightbox="1" } [![Arms Union](6/piece_0_2.jpg){ width="150" }](6/piece_0_2.jpg){ data-lightbox="1" }   
 
 ## Act III
 
@@ -80,9 +80,12 @@ title: 6. Partisan
 
     1. Gain Sower of Division (25).
 
-        [![Sower of Division](6/piece_0_0.jpg){ width="33%" }](6/piece_0_0.jpg){ data-lightbox="1" }
+        [![Sower of Division](6/piece_0_0.jpg){ width="150" }](6/piece_0_0.jpg){ data-lightbox="1" }
 
 ## FAQ / Errata
 
 ??? question "<sup>[1]</sup>Act I Objective - If I pass while not other player has cards, do I advance my objective?"
     <a id="faq1"></a>No, in this scenario the initiative never passes to another player, so you are not considered to have lost it or gained it. To advance the objective, the initiative must be possessed by another player and then move into your possession.
+
+??? question "<sup>[2]</sup>Guilds Decry Terror - How is this resolved if another card is already attached to the Imperial Council?"
+    <a id="faq2"></a>Open item. The rules suggest that the requirement can be ignored, but there is no indication of who should make the choice. My current recommendation is to attach it to whatever card is currently attached to the Imperial Council.

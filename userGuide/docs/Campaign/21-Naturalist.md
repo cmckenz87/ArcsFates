@@ -17,10 +17,10 @@ title: 21. Naturalist
     
     2. Gain Blight Society (02) and Spore Guides (03).
     
-        [![Blight Society](21/piece_0_2.jpg){ width="33%" }](21/piece_0_2.jpg){ data-lightbox="1" } [![Spore Guides](21/piece_0_1.jpg){ width="33%" }](21/piece_0_1.jpg){ data-lightbox="1" }
+        [![Blight Society](21/piece_0_2.jpg){ width="150" }](21/piece_0_2.jpg){ data-lightbox="1" } [![Spore Guides](21/piece_0_1.jpg){ width="150" }](21/piece_0_1.jpg){ data-lightbox="1" }
     
     3. Place the Blightkin Ambition tile by the Empath ambition box.
     
     4. Add Blightkin Ambition (04) to the rules booklet. **Explain it to everyone.**
 
-        [![Blightkin Ambition](21/piece_0_0.jpg){ width="33%" }](21/piece_0_0.jpg){ data-lightbox="1" }
+        [![Blightkin Ambition](21/piece_0_0.jpg){ width="150" }](21/piece_0_0.jpg){ data-lightbox="1" }

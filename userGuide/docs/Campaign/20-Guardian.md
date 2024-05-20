@@ -23,11 +23,11 @@ title: 20. Guardian
    
     5. Green Green Vault<sup><a href="#faq1">[1]</a></sup> (02) and Ire of the Tycoons (03)
     
-        [![Green Vault](20/piece_0_2.jpg){ width="33%" }](20/piece_0_2.jpg){ data-lightbox="1" } [![Ire of the Tycoons](20/piece_0_1.jpg){ width="33%" }](20/piece_0_1.jpg){ data-lightbox="1" }
+        [![Green Vault](20/piece_0_2.jpg){ width="150" }](20/piece_0_2.jpg){ data-lightbox="1" } [![Ire of the Tycoons](20/piece_0_1.jpg){ width="150" }](20/piece_0_1.jpg){ data-lightbox="1" }
     
     6. Add the Edenguard Ambition (04) to the rules booklet. **Explain it to everyone.**
 
-        [![Edenguard Ambition](20/piece_0_0.jpg){ width="33%" }](20/piece_0_0.jpg){ data-lightbox="1" }
+        [![Edenguard Ambition](20/piece_0_0.jpg){ width="150" }](20/piece_0_0.jpg){ data-lightbox="1" }
 
 ## FAQ / Errata
 

@@ -17,10 +17,10 @@ title: 17. Overlord
     
     2. Gain Sycophants (02).
     
-        [![Sycophants](17/piece_0_1.jpg){ width="33%" }](17/piece_0_1.jpg){ data-lightbox="1" }
+        [![Sycophants](17/piece_0_1.jpg){ width="150" }](17/piece_0_1.jpg){ data-lightbox="1" }
     
     3. Add Reach Rejects Overlord (03) to the rules booklet.
     
-        [![Rejects Overlord](17/piece_0_0.jpg){ width="33%" }](17/piece_0_0.jpg){ data-lightbox="1" }
+        [![Rejects Overlord](17/piece_0_0.jpg){ width="150" }](17/piece_0_0.jpg){ data-lightbox="1" }
     
     4. If you have no Outrage, you may Provoke Outrage once to place 2 ships at a planet of that Outrage type. *(Do not also trigger Sycophants.)*

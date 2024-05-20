@@ -15,7 +15,7 @@ title: 13. Blight Speaker
 ??? info "Setup details"
     1. Gain Spore Ships (02).
     
-        [![Spore Ships](13/piece_1_4.jpg){ width="33%" }](13/piece_1_4.jpg){ data-lightbox="1" }
+        [![Spore Ships](13/piece_1_4.jpg){ width="150" }](13/piece_1_4.jpg){ data-lightbox="1" }
     
     2. Scrap 2 Loyal ships from your supply or the map.
     
@@ -24,11 +24,11 @@ title: 13. Blight Speaker
 ??? success "If successful"
     1. Gain Blight Fury (04).
     
-        [![Blight Fury](13/piece_1_2.jpg){ width="33%" }](13/piece_1_2.jpg){ data-lightbox="1" }
+        [![Blight Fury](13/piece_1_2.jpg){ width="150" }](13/piece_1_2.jpg){ data-lightbox="1" }
     
     2. Add Blight Hunters (05), Blight Reapers (06), and the 3 Blight Purge cards (07-09) to the Court deck.
     
-        [![Blight Hunters](13/piece_1_1.jpg){ width="33%" }](13/piece_1_1.jpg){ data-lightbox="1" } [![Blight Reapers](13/piece_1_0.jpg){ width="33%" }](13/piece_1_0.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_6.jpg){ width="33%" }](13/piece_0_6.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_5.jpg){ width="33%" }](13/piece_0_5.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_4.jpg){ width="33%" }](13/piece_0_4.jpg){ data-lightbox="1" }
+        [![Blight Hunters](13/piece_1_1.jpg){ width="150" }](13/piece_1_1.jpg){ data-lightbox="1" } [![Blight Reapers](13/piece_1_0.jpg){ width="150" }](13/piece_1_0.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_6.jpg){ width="150" }](13/piece_0_6.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_5.jpg){ width="150" }](13/piece_0_5.jpg){ data-lightbox="1" } [![Blight Purge](13/piece_0_4.jpg){ width="150" }](13/piece_0_4.jpg){ data-lightbox="1" }
     
     3. Scrap Blight Panic (10) and Blight Looms (11).
 
@@ -37,7 +37,7 @@ title: 13. Blight Speaker
     
     2. Add 1 Blight Purge card (09), Blight Panic (10), and Blight Looms (11) to the Court deck.
 
-        [![Blight Purge](13/piece_0_4.jpg){ width="33%" }](13/piece_0_43.jpg){ data-lightbox="1" } [![Blight Panic](13/piece_0_3.jpg){ width="33%" }](13/piece_0_3.jpg){ data-lightbox="1" } [![Blight Looms](13/piece_0_2.jpg){ width="33%" }](13/piece_0_2.jpg){ data-lightbox="1" }
+        [![Blight Purge](13/piece_0_4.jpg){ width="150" }](13/piece_0_43.jpg){ data-lightbox="1" } [![Blight Panic](13/piece_0_3.jpg){ width="150" }](13/piece_0_3.jpg){ data-lightbox="1" } [![Blight Looms](13/piece_0_2.jpg){ width="150" }](13/piece_0_2.jpg){ data-lightbox="1" }
 
 ## Act III
 
@@ -46,4 +46,4 @@ title: 13. Blight Speaker
 ??? info "Setup details"
     1. Gain Blight Hunger (13).
 
-        [![Blight Hunger](13/piece_0_0.jpg){ width="33%" }](13/piece_0_0.jpg){ data-lightbox="1" }
+        [![Blight Hunger](13/piece_0_0.jpg){ width="150" }](13/piece_0_0.jpg){ data-lightbox="1" }

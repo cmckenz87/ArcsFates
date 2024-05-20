@@ -17,14 +17,14 @@ title: 23. Conspirator
     
     2. Gain Farseers (02).
     
-        [![Farseers](23/piece_0_3.jpg){ width="33%" }](23/piece_0_3.jpg){ data-lightbox="1" }
+        [![Farseers](23/piece_0_3.jpg){ width="150" }](23/piece_0_3.jpg){ data-lightbox="1" }
     
     3. Collect the 8 Conspiracy tokens - 2 per player color. *(Even if you don't have all 4 players!)*
     
     4. Gain the Conspiracies card (03). **Explain it to everyone.**
     
-        [![Conspiracies](23/piece_0_2.jpg){ width="33%" }](23/piece_0_2.jpg){ data-lightbox="1" }
+        [![Conspiracies](23/piece_0_2.jpg){ width="150" }](23/piece_0_2.jpg){ data-lightbox="1" }
     
     5. Add Scoring Conspiracies (04) and Foiling Conspiracies (05) to the rules booklet. **Explain it to everyone.**
 
-        [![Scoring Conspiracies](23/piece_0_1.jpg){ width="33%" }](23/piece_0_1.jpg){ data-lightbox="1" } [![Foiling Conspiracies](23/piece_0_0.jpg){ width="33%" }](23/piece_0_0.jpg){ data-lightbox="1" }
+        [![Scoring Conspiracies](23/piece_0_1.jpg){ width="150" }](23/piece_0_1.jpg){ data-lightbox="1" } [![Foiling Conspiracies](23/piece_0_0.jpg){ width="150" }](23/piece_0_0.jpg){ data-lightbox="1" }

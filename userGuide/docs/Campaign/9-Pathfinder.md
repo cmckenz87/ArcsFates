@@ -19,18 +19,18 @@ title: 9. Pathfinder
     
     3. Gain the Uncovering Clues (02).
     
-        [![Uncovering Clues](9/piece_1_2.jpg){ width="33%" }](9/piece_1_2.jpg){ data-lightbox="1" }
+        [![Uncovering Clues](9/piece_1_2.jpg){ width="150" }](9/piece_1_2.jpg){ data-lightbox="1" }
     
     4. The player to your right secretly writes down the cluster number and planet ID symbol of any one planet on the map.
     
     5. Give the Clues to the Portal card (03), 6 Clue tokens, and the Portal token to the player on your right. *(The Clues are double-sided!)*
 
-        [![Clues to the Portal](9/piece_1_1.jpg){ width="33%" }](9/piece_1_1.jpg){ data-lightbox="1" }
+        [![Clues to the Portal](9/piece_1_1.jpg){ width="150" }](9/piece_1_1.jpg){ data-lightbox="1" }
 
 ??? success "If successful"
     1. Add Call to Pilgrimage (05) to the Court deck.
     
-        [![Call to Pilgrimage](9/piece_0_6.jpg){ width="33%" }](9/piece_0_6.jpg){ data-lightbox="1" }
+        [![Call to Pilgrimage](9/piece_0_6.jpg){ width="150" }](9/piece_0_6.jpg){ data-lightbox="1" }
     
     2. Scrap Portal Seekers (06).
     
@@ -41,7 +41,7 @@ title: 9. Pathfinder
     
     2. Add Portal Seekers (06) to the Court deck.
     
-        [![Portal Seekers](9/piece_0_5.jpg){ width="33%" }](9/piece_0_5.jpg){ data-lightbox="1" }
+        [![Portal Seekers](9/piece_0_5.jpg){ width="150" }](9/piece_0_5.jpg){ data-lightbox="1" }
 
     3. Place the Portal token on the system that was recorded during setup.
     
@@ -54,15 +54,15 @@ title: 9. Pathfinder
 ??? info "Setup details"
     1. Gain the Pilgrims card<sup><a href="#faq1">[1]</a></sup> (08).
 
-        [![Pilgrims](9/piece_0_3.jpg){ width="33%" }](9/piece_0_3.jpg){ data-lightbox="1" }
+        [![Pilgrims](9/piece_0_3.jpg){ width="150" }](9/piece_0_3.jpg){ data-lightbox="1" }
     
     2. Place 1 Seek the Portal card (09) on top of the Court deck.
 
-        [![Seek the Portal](9/piece_0_2.jpg){ width="33%" }](9/piece_0_2.jpg){ data-lightbox="1" }
+        [![Seek the Portal](9/piece_0_2.jpg){ width="150" }](9/piece_0_2.jpg){ data-lightbox="1" }
     
     3. Tuck the other 2 Seek the Portal cards (10-11) under the Pilgrims and the Portal card (08).
 
-        [![Seek the Portal](9/piece_0_1.jpg){ width="33%" }](9/piece_0_1.jpg){ data-lightbox="1" } [![Seek the Portal](9/piece_0_0.jpg){ width="33%" }](9/piece_0_0.jpg){ data-lightbox="1" }
+        [![Seek the Portal](9/piece_0_1.jpg){ width="150" }](9/piece_0_1.jpg){ data-lightbox="1" } [![Seek the Portal](9/piece_0_0.jpg){ width="150" }](9/piece_0_0.jpg){ data-lightbox="1" }
     
     4. Collect the 6 Pilgrim tokens. Roll the event die and place 1 Pilgrim token at each planet of the rolled symbol.
 

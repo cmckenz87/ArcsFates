@@ -17,7 +17,7 @@ title: 22. Gate Wraith
     
     2. Gain the Catapult Overdrive (02) and Breaking Gates & Placing Passages (03).
     
-        [![Catapult Overdrive](22/piece_1_0.jpg){ width="33%" }](22/piece_1_0.jpg){ data-lightbox="1" } [![Breaking Gates & Placing Passages](22/piece_0_3.jpg){ width="33%" }](22/piece_0_3.jpg){ data-lightbox="1" }
+        [![Catapult Overdrive](22/piece_1_0.jpg){ width="150" }](22/piece_1_0.jpg){ data-lightbox="1" } [![Breaking Gates & Placing Passages](22/piece_0_3.jpg){ width="150" }](22/piece_0_3.jpg){ data-lightbox="1" }
     
     3. Collect the 6 Passage tokens. Place one on any gate. Resolve step 3 of Breaking Gates & Placing Passages (03).
     
@@ -25,15 +25,15 @@ title: 22. Gate Wraith
     
     5. Place The Dead Live (04) near the map by the chapter track.
     
-        [![The Dead Live](22/piece_0_2.jpg){ width="33%" }](22/piece_0_2.jpg){ data-lightbox="1" }
+        [![The Dead Live](22/piece_0_2.jpg){ width="150" }](22/piece_0_2.jpg){ data-lightbox="1" }
     
     6. Add Passages & The Twisted Passage<sup><a href="#faq1">[1]</a></sup> (05) to the rules booklet. **Explain it to everyone.**
     
-        [![Passages & The Twisted Passage](22/piece_0_1.jpg){ width="33%" }](22/piece_0_1.jpg){ data-lightbox="1" }
+        [![Passages & The Twisted Passage](22/piece_0_1.jpg){ width="150" }](22/piece_0_1.jpg){ data-lightbox="1" }
     
     7. Place Passage Storms (06) on top of the Court deck.
 
-        [![Passage Storms](22/piece_0_0.jpg){ width="33%" }](22/piece_0_0.jpg){ data-lightbox="1" }
+        [![Passage Storms](22/piece_0_0.jpg){ width="150" }](22/piece_0_0.jpg){ data-lightbox="1" }
 
 ## FAQ / Errata
 
