@@ -37,7 +37,7 @@ title: 13. Blight Speaker
     
     2. Add 1 Blight Purge card (09), Blight Panic (10), and Blight Looms (11) to the Court deck.
 
-        [![Blight Purge](13/piece_0_4.jpg){ width="150" }](13/piece_0_43.jpg){ data-lightbox="1" } [![Blight Panic](13/piece_0_3.jpg){ width="150" }](13/piece_0_3.jpg){ data-lightbox="1" } [![Blight Looms](13/piece_0_2.jpg){ width="150" }](13/piece_0_2.jpg){ data-lightbox="1" }
+        [![Blight Purge](13/piece_0_4.jpg){ width="150" }](13/piece_0_4.jpg){ data-lightbox="1" } [![Blight Panic](13/piece_0_3.jpg){ width="150" }](13/piece_0_3.jpg){ data-lightbox="1" } [![Blight Looms](13/piece_0_2.jpg){ width="150" }](13/piece_0_2.jpg){ data-lightbox="1" }
 
 ## Act III
 

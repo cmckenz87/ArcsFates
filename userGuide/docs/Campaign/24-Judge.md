@@ -16,7 +16,7 @@ title: 24. Judge
     1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
     2. Gain Vow of Fairness (02), The Arbiter<sup><a href="#faq1">[1]</a></sup> (03), and Judge's Chosen (04).
         
-        [![Vow of Fairness](24/piece_0_3.jpg){ width="150" }](24/piece_0_3.jpg){ data-lightbox="1" } [![The Arbiter](24/piece_0_2.jpg){ width="150" }](24/piece_0_2.jpg){ data-lightbox="1" } [![Judge's Chosen](24/piece_0_1.jpg){ width="33%" }](24/piece_0_1.jpg){ data-lightbox="1" }
+        [![Vow of Fairness](24/piece_0_3.jpg){ width="150" }](24/piece_0_3.jpg){ data-lightbox="1" } [![The Arbiter](24/piece_0_2.jpg){ width="150" }](24/piece_0_2.jpg){ data-lightbox="1" } [![Judge's Chosen](24/piece_0_1.jpg){ width="150" }](24/piece_0_1.jpg){ data-lightbox="1" }
 
     3. Add Judge Sets Agenda (05) to the rules booklet.
         

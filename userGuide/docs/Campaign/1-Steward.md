@@ -20,7 +20,7 @@ title: 1. Steward
     2. Gain the First Regent tile.
 
 ??? success "If successful"
-    1. Add Council Intrigue<sup><a href="#faq1">[1]</a></sup> (05), Tax Collectors (06), and Hunter Squads (07) to the Courd deck.
+    1. Add Council Intrigue<sup><a href="#faq1">[1]</a></sup> (05), Tax Collectors (06), and Hunter Squads (07) to the Court deck.
       
         [![Council Intrigue](1/piece_3_0.jpg){ width="150" }](1/piece_3_0.jpg){ data-lightbox="1" } [![Tax Collectors](1/piece_2_6.jpg){ width="150" }](1/piece_2_6.jpg){ data-lightbox="1" } [![Hunter Squads](1/piece_2_5.jpg){ width="150" }](1/piece_2_5.jpg){ data-lightbox="1" }
 

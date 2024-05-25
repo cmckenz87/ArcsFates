@@ -11,7 +11,11 @@ hide:
         <p style="text-align: center;">Books/Aids</p></a>
     </div>
     <div style="text-align:center">
-        <a href="Base/0-Leader.html"><img src="images/leader-back.jpg" alt="Leaders" width ="100px">
+        <a href="Base/0-Setup.html"><img src="Base/setup/back.jpg" alt="Setup" width ="100px">
+        <p style="text-align: center;">Setup Cards</p></a>
+    </div>
+    <div style="text-align:center">
+        <a href="Base/0b-Leader.html"><img src="images/leader-back.jpg" alt="Leaders" width ="100px">
         <p style="text-align: center;">Leaders</p></a>
     </div>
     <div style="text-align:center">
