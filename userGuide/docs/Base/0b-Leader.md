@@ -34,11 +34,8 @@ hide:
     
     However, these limits are in place for Loyal cities even if another card such as Empath's Bond would give you permission to tax them.
 
-??? question "Warrior/Feastbringer/Noble - When granted an additional action from the Copy or Pivot ability, can I trigger a New Action on a Guild or Lore card?"
-    Yes. These effects grant you another action which can be used in any way as if you had gotten that action from a card pip.
-
-??? question "Demagogue - Can the influence effect granted by this be used for a New Action?"
-    No. Because this effect specifically tells you what to influence and how, it is not an influence action. It follows the rules for influencing, but it is not considered an influence action for other card effects.
+??? question "Warrior/Feastbringer/Noble/Demagogue - When granted an additional action from the Copy or Pivot ability, can I trigger a New Action on a Guild or Lore card?"
+    No. You must perform the action stated, but it is affected by modifiers such as Sprinter Drive
 
 ??? question "Overseer - Does triggering Ruthless require that I have and spend another such action in the same turn?"
     No. This allows you to repeat the effects of the action you just took, without "spending" another action. The only cost is the damage to the building.
