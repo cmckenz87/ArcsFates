@@ -21,7 +21,7 @@ title: 11. Planet Breaker
     
         [![Sycophants](11/piece_1_3.jpg){ width="150" }](11/piece_1_3.jpg){ data-lightbox="1" }
     
-    4. Gain the Hammer Fragments<sup><a href="#faq1">[1]</a></sup> card (03).
+    4. Gain the Hammer Fragments card (03).
     
         [![Hammer Fragments](11/piece_1_2.jpg){ width="150" }](11/piece_1_2.jpg){ data-lightbox="1" } [![Breaking Worlds](11/back_1_2.jpg){ width="150" }](11/back_1_2.jpg){ data-lightbox="1" }
     
@@ -60,7 +60,7 @@ title: 11. Planet Breaker
 
 ## FAQ / Errata
 
-??? question "<sup>[1]</sup>Breaking Worlds (Hammer Fragments) - How does this effect interact with Hegemon banner and Survivalist bunkers?"
+??? question "Breaking Worlds (Hammer Fragments) - How does this effect interact with Hegemon banner and Survivalist bunkers?"
     <a id="faq1"></a>Banners and Bunkers are affected by this ability just as any other buildings would be, since this is explicitly a Harm effect.
 
     Banners and Bunkers can still be placed on Broken Worlds, since they do not require slots.

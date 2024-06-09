@@ -13,7 +13,7 @@ title: 20. Guardian
 [![Setup](20/piece_0_3.jpg){ width="33%" }](20/piece_0_3.jpg){ data-lightbox="1" }[![Objective](20/back_0_3.jpg){ width="33%" }](20/back_0_3.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    1. **If you have a Flagship, you may Resettle** - as described on the back of the Flagship board.
     
     2. You Provoke Outrage for Fuel and Material. *(Discard these resources and cards. Place agents on their Outrage icons.)*
     
@@ -31,5 +31,5 @@ title: 20. Guardian
 
 ## FAQ / Errata
 
-??? question "<sup>[1]</sup>Green Vault - What happens if this card is transfered to another player or removed from play?"
-    <a id="faq1"></a>While you do not possess this card, Materials and Fuel in your Captives box still function as Captives, but they are no longer Frozen. This means you can spend them, transfer them in a Summit, etc.
+??? question "Green Vault - What happens if this card is transfered to another player or removed from play?"
+    <a id="faq1"></a>While you do not possess this card, Materials and Fuel in your Captives box still function as Captives and as Resources, but they are no longer Frozen. This means you can spend them, transfer them in a Summit, etc. When transfering in a Summit, you can choose to transfer them as resources or transfer them as captives.

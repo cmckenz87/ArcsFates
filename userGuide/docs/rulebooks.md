@@ -57,7 +57,7 @@ hide:
     No. While the card text refers to a Rival playing an event or securing the Imperial Council, it is meant to include the current player.
 
 ??? question "Can players examine the Lore cards that get shuffled in during campaign setup?"
-    No. The Lore cards are secret until revealed. However, if a Fate setup or resolution requires searching the court deck at a later time, all players should be allowed to view the contents.
+    No. The Lore cards are secret until revealed. However, if the deck is searched for any reason at a later time, all players should be allowed to view the contents.
 
 ??? question "Can I attach a card to another attached card?"
     Yes. Each card can only have one attachment, but that attachment can have its own attachment, and so on.
@@ -69,4 +69,4 @@ hide:
     No, the restriction against ceding your last piece considers each piece type independently.
 
 ??? question "Can I cede control of my flagship?"
-    No. As written, you cannot remove the flagship, so the target player could place their ship without you removing anything. However, this creates an unfortunate loophole where players can conspire to get their all of their ships on the board during a summit, so it should not be allowed.
+    No. Flagships cannot be removed from the board during gameplay. Replace effects will not resolve if the removal and placement of the specified pieces cannot be completed in its entirety.

@@ -52,7 +52,7 @@ title: 9. Pathfinder
 [![Setup](9/piece_0_4.jpg){ width="33%" }](9/piece_0_4.jpg){ data-lightbox="1" }[![Objective](9/back_0_4.jpg){ width="33%" }](9/back_0_4.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-    1. Gain the Pilgrims card<sup><a href="#faq1">[1]</a></sup> (08).
+    1. Gain the Pilgrims card (08).
 
         [![Pilgrims](9/piece_0_3.jpg){ width="150" }](9/piece_0_3.jpg){ data-lightbox="1" }
     
@@ -68,5 +68,8 @@ title: 9. Pathfinder
 
 ## FAQ / Errata
 
-??? question "<sup>[1]</sup>Pilgrims - Does the prelude action require all Pilgrims to move into the same system?"
+??? question "Uncovering Clues - How is this effect resolved if all of the Clues are on the board already, or if the Portal has already been found?"
+    <a id="faq1"></a>This action can still be done in order to gain resources and ships. In the case where all of the Clues are on the board, the player to your right removes a Clue token of their choice in order to place it in system.
+
+??? question "Pilgrims - Does the prelude action require all Pilgrims to move into the same system?"
     <a id="faq1"></a>No. While a strict reading of the card may lead to this interpretation, it is intended that each Pilgrim can independently move into any system. Otherwise, the word "once" would be unnecessary.

@@ -46,3 +46,8 @@ title: 15. Peacekeeper
     3. Add Ceasefires (08), Empire Balks at Peace (09), Peace Dividends (10), and Peace Accords (11) to the rules booklet. **Explain them to everyone.**
 
         [![Ceasefires](15/piece_0_3.jpg){ width="150" }](15/piece_0_3.jpg){ data-lightbox="1" } [![Empire Balks at Peace](15/piece_0_2.jpg){ width="150" }](15/piece_0_2.jpg){ data-lightbox="1" } [![Peace Dividends](15/piece_0_1.jpg){ width="150" }](15/piece_0_1.jpg){ data-lightbox="1" } [![Peace Accords](15/piece_0_0.jpg){ width="150" }](15/piece_0_0.jpg){ data-lightbox="1" }
+
+## FAQ / Errata
+
+??? question "Ceasefires - What happens if a Gate with a Ceasefire token is broken by Gate Wraith?"
+    <a id="faq1"></a>The Ceasefire is unaffected. It is not considered a piece in the gate or any other space. It is placed there only for easy reference, but it remains permanently associated with the corresponding cluster and can be placed anywhere that players can easily see.

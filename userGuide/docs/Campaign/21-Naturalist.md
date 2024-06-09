@@ -13,7 +13,7 @@ title: 21. Naturalist
 [![Setup](21/piece_0_3.jpg){ width="33%" }](21/piece_0_3.jpg){ data-lightbox="1" }[![Objective](21/back_0_3.jpg){ width="33%" }](21/back_0_3.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    1. **If you have a Flagship, you may Resettle** - as described on the back of the Flagship board.
     
     2. Gain Blight Society (02) and Spore Guides (03).
     

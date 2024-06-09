@@ -28,7 +28,7 @@ title: 7. Admiral
     
         [![Use Honor Guard](7/piece_2_2.jpg){ width="150" }](7/piece_2_2.jpg){ data-lightbox="1" }
     
-    2. Add the 2 Rogue Admirals<sup><a href="#faq1">[1]</a></sup> (06-07) and 2 Court Enforcers (08-09) to the Court deck.
+    2. Add the 2 Rogue Admirals (06-07) and 2 Court Enforcers (08-09) to the Court deck.
     
         [![Rogue Admirals](7/piece_2_1.jpg){ width="150" }](7/piece_2_1.jpg){ data-lightbox="1" } [![Rogue Admirals](7/piece_2_0.jpg){ width="150" }](7/piece_2_0.jpg){ data-lightbox="1" } [![Court Enforcers](7/piece_1_6.jpg){ width="150" }](7/piece_1_6.jpg){ data-lightbox="1" } [![Court Enforcers](7/piece_1_5.jpg){ width="150" }](7/piece_1_5.jpg){ data-lightbox="1" }
     
@@ -39,7 +39,7 @@ title: 7. Admiral
    
     2. Scrap Honor Guard (05) and the 2 Rogue Admirals (06-07).
    
-    3. Add the 2 Court Enforcers (08-09) and 2 Imperial Defectors<sup><a href="#faq2">[2]</a></sup> (10-11) to the Court deck.
+    3. Add the 2 Court Enforcers (08-09) and 2 Imperial Defectors (10-11) to the Court deck.
 
         [![Court Enforcers](7/piece_1_6.jpg){ width="150" }](7/piece_1_6.jpg){ data-lightbox="1" } [![Court Enforcers](7/piece_1_5.jpg){ width="150" }](7/piece_1_5.jpg){ data-lightbox="1" } [![Imperial Defectors](7/piece_1_4.jpg){ width="150" }](7/piece_1_4.jpg){ data-lightbox="1" } [![Imperial Defectors](7/piece_1_3.jpg){ width="150" }](7/piece_1_3.jpg){ data-lightbox="1" }
 
@@ -60,7 +60,7 @@ title: 7. Admiral
         [![Mass Uprising](7/piece_0_4.jpg){ width="150" }](7/piece_0_4.jpg){ data-lightbox="1" } [![Mass Uprising](7/piece_0_3.jpg){ width="150" }](7/piece_0_3.jpg){ data-lightbox="1" }
 
 ??? failure "If failed"
-    1. Add the 2 Imperial Defectors<sup><a href="#faq2">[2]</a></sup> (15-16) to the Court deck.
+    1. Add the 2 Imperial Defectors (15-16) to the Court deck.
     
         [![Imperial Defectors](7/piece_0_6.jpg){ width="150" }](7/piece_0_6.jpg){ data-lightbox="1" } [![Imperial Defectors](7/piece_0_5.jpg){ width="150" }](7/piece_0_5.jpg){ data-lightbox="1" }
     
@@ -81,8 +81,8 @@ title: 7. Admiral
 
 ## FAQ / Errata
 
-??? question "<sup>[1]</sup>Rogue Admirals - How do Imperial ships participate when a Regent attacks another Regent?"
-    <a id="faq1"></a>The ships participate on the defender's side and can be harmed by the attacker. A Regent cannot attack only Imperial ships even with Rogue Admirals.
+??? question "Rogue Admirals - How do Imperial ships participate when a Regent attacks another Regent?"
+    <a id="faq1"></a>The ships participate on the defender's side and can be harmed by the attacker. A Regent cannot attack Imperial ships directly, even with Rogue Admirals. They can only harm them during battle with another Regent.
 
-??? question "<sup>[2]</sup>Imperial Defectors - How is this resolved if there is no Outlaw player?"
-    <a id="faq2"></a>The Imperial ships are removed and no ships are placed.
+??? question "Imperial Defectors - How is this resolved if there is no Outlaw player, or if the earliest Outlaw in turn order does not have enough ships to replace all of the Imperial ships?"
+    <a id="faq2"></a>If there is no Outlaw or the eligible Outlaw has no ships, do not remove any Imperial ships. If the Outlaw has ships but they aren't enough to replace all of the Imperial ships, the player with initiative choose which Imperial ships get replaced. The remaining Imperial ships are not removed.

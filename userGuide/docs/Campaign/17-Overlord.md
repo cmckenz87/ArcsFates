@@ -13,7 +13,7 @@ title: 17. Overlord
 [![Setup](17/piece_0_2.jpg){ width="33%" }](17/piece_0_2.jpg){ data-lightbox="1" }[![Objective](17/back_0_2.jpg){ width="33%" }](17/back_0_2.jpg){ data-lightbox="1" }
 
 ??? info "Setup details"
-    1. **If you have a Flagship, you may Resettle** - as describe on the back of the Flagship board.
+    1. **If you have a Flagship, you may Resettle** - as described on the back of the Flagship board.
     
     2. Gain Sycophants (02).
     

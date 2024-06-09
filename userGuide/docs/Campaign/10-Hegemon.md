@@ -21,7 +21,7 @@ title: 10. Hegemon
     
     4. Scrap any 4 Loyal ships.
     
-    5. Gain the Planting Banners<sup><a href="#faq1">[1]</a></sup> (02). Collect the 8 Banner tokens.
+    5. Gain the Planting Banners (02). Collect the 8 Banner tokens.
     
         [![Planting Banners](10/piece_1_3.jpg){ width="150" }](10/piece_1_3.jpg){ data-lightbox="1" }
     
@@ -64,5 +64,5 @@ title: 10. Hegemon
 
 ## FAQ / Errata
 
-??? question "<sup>[1]</sup>Planting Banners - Does a Survivalist Bunker count as a Rival building for resolving this effect?"
+??? question "Planting Banners - Does a Survivalist Bunker count as a Rival building for resolving this effect?"
     <a id="faq1"></a>No. You can plant a banner even if a rival Bunker is on the planet, as it only counts as a building for effects which Harm.

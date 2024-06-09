@@ -24,6 +24,8 @@ As and when official FAQ and Errata are published, the rulings here will be upda
 
 ## Recent Updates
 
+Jun 8, 2024: Setup cards page added/correct. Several typos fixed. Several FAQ entries updated and added.
+
 May 18, 2024: Fixed missing/incorrect images on Judge page. Added about 70 FAQ entries!
 
 May 17, 2024: Added Books / Aids, Misc campaign cards, and "About" page (you are here right now!)

@@ -23,6 +23,9 @@ hide:
 
 ## FAQ / Errata
 
+??? question "Skirmishers - Can I reroll dice one at at time, and how does this work with other reroll abilities?"
+    Each reroll ability is triggered one at a time, but all rerolls granted by a reroll ability must be done simultaneously.
+
 ??? question "Elder Broker - Is the Trade effect considered Stealing? Can it be blocked by Sworn Guardian?"
     No. This effect is not considered stealing.
 

@@ -12,8 +12,6 @@ title: 6. Partisan
 
 [![Setup](6/piece_3_3.jpg){ width="33%"}](6/piece_3_3.jpg){ data-lightbox="1" }[![Objective](6/back_3_3.jpg){ width="33%" }](6/back_3_3.jpg){ data-lightbox="1" }[![Resolution](6/piece_3_0.jpg){ width="33%" }](6/piece_3_0.jpg){ data-lightbox="1" }
 
-(Objective)<sup><a href="#faq1">[1]</a></sup>
-
 ??? info "Setup details"
     1. Gain Informants (02) and Partisan Seizing (03).
     
@@ -55,7 +53,7 @@ title: 6. Partisan
         [![Guilds Decry Terror](6/piece_1_1.jpg){ width="150" }](6/piece_1_1.jpg){ data-lightbox="1" }
 
 ??? success "If successful"
-    1. Add Guilds Decry Terror<sup><a href="#faq2">[2]</a></sup> (19) to the rules booklet.
+    1. Add Guilds Decry Terror (19) to the rules booklet.
     
         [![Guilds Decry Terror](6/piece_0_6.jpg){ width="150" }](6/piece_0_6.jpg){ data-lightbox="1" }    
     
@@ -84,8 +82,11 @@ title: 6. Partisan
 
 ## FAQ / Errata
 
-??? question "<sup>[1]</sup>Act I Objective - If I pass while not other player has cards, do I advance my objective?"
+??? question "Act I Objective - If I pass while not other player has cards, do I advance my objective?"
     <a id="faq1"></a>No, in this scenario the initiative never passes to another player, so you are not considered to have lost it or gained it. To advance the objective, the initiative must be possessed by another player and then move into your possession.
 
-??? question "<sup>[2]</sup>Guilds Decry Terror - How is this resolved if another card is already attached to the Imperial Council?"
-    <a id="faq2"></a>Open item. The rules suggest that the requirement can be ignored, but there is no indication of who should make the choice. My current recommendation is to attach it to whatever card is currently attached to the Imperial Council.
+??? question "Guilds Decry Terror - How is this resolved if another card is already attached to the Imperial Council?"
+    <a id="faq2"></a>It should be attached to a different card in court that does not already have an attachment, but it can be attached to another attachment, including the card attached to Imperial Council. The player with initiative should decide which one.
+
+??? question "Partisan Seizing (Act I Ability) - How does this card function after it has been tucked under the player board?"
+    <a id="faq2"></a>Ignore all text on the card once it is tucked. It is meant to function only as a reminder for the Act II Law. This means that the card is not scrapped if Partisan changes fate in Act II interlude, and the Partisan does not get to clear their outrage either.

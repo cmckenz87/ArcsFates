@@ -39,6 +39,11 @@ hide:
 
 ## FAQ / Errata
 
+??? question "Loyal cards - How exactly do these effects interact with other cards?"
+    The ability to spend any resource as another resource means that you can use the Prelude action of the specified resource. For the purpose of card effects, you are considered to have spent the resource as its original type, not as the type specified on the Loyal card. For example, spending a Psionic as a Fuel will advance Pacifists's Act II objective, but spending a Fuel as a Psionic will not.
+
+    You can spend another resource as the resource type listed on the Loyal card, even if the original resource type is outraged.
+
 ??? question "Material Cartel / Fuel Cartel - How exactly do resources on these cards interact with other effects?"
     Any effect that considers the number or type of resources currently in your possession will include the resources on your Cartels.
 
@@ -48,5 +53,9 @@ hide:
 
     However, if you move a resource from your Cartel to elsewhere in your play area, you are considered to have gained it, and if you move a card from anywhere else in your play area to your Cartel, you are considered to have lost it.
 
+??? question "Skirmishers - Can I reroll dice one at at time, and how does this work with other reroll abilities?"
+    Each reroll ability is triggered one at a time, but all rerolls granted by a reroll ability must be done simultaneously.
+
 ??? question "Elder Broker - Is the Trade effect considered Stealing? Can it be blocked by Sworn Guardian?"
     No. This effect is not considered stealing.
+
