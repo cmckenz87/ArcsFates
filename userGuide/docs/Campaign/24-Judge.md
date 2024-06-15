@@ -20,7 +20,7 @@ title: 24. Judge
 
     3. Add Judge Sets Agenda (05) to the rules booklet.
         
-        [![Judge Sets Agenda](24/piece_0_0.jpg){ width="150" }](24/piece_0_1.jpg){ data-lightbox="1" }
+        [![Judge Sets Agenda](24/piece_0_0.jpg){ width="150" }](24/piece_0_0.jpg){ data-lightbox="1" }
         
 ## FAQ / Errata
 
